@@ -1,0 +1,19 @@
+#google
+google.com, pub-8272786997612568, DIRECT, f08c47fec0942fa0
+google.com, pub-9736035700028739, DIRECT, f08c47fec0942fa0
+google.com, pub-5785109049760583, DIRECT, f08c47fec0942fa0
+google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0
+
+#openX
+openx.com, 68422, RESELLER, 6a698e2ec38604c6
+
+#index
+indexexchange.com, 183366, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 182841, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 186195, DIRECT, 50b1c356f2c5c8fc
+
+#tribalfusion
+exponential.com, 1120, DIRECT, afac06385c445926
+tribalfusion.com, 1120, DIRECT, afac06385c445926
+indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
