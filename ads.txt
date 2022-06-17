@@ -22,7 +22,7 @@ google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
 didna.io, 494n1p15, DIRECT
 
 # End Hockeydb
-#diDNA ads dot txt 6/3/22
+#diDNA ads dot txt 6/17/22
 #diDNA AdX
 didna.io, 4169, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
@@ -39,7 +39,7 @@ yahoo.com, 58722, DIRECT #EBDA
 adtech.com, 11609, DIRECT
 aolcloud.net, 11609, DIRECT
 advertising.com, 28319, DIRECT
-advertising.com, 28575, DIRECT
+advertising.com, 28575, DIRECT #EBDA
 yahoo.com, 55017, DIRECT, e1a5b5b6e3255540
 #diDNA Verizon Media video
 advertising.com, 3679, DIRECT #video
@@ -47,7 +47,6 @@ advertising.com, 5831, DIRECT #video
 advertising.com, 8044, DIRECT #video
 advertising.com, 8022, DIRECT #video
 advertising.com, 28226, DIRECT
-advertising.com, 28575, DIRECT #EBDA
 
 #diDNA Pubmatic
 pubmatic.com, 159744, DIRECT, 5d62403b186f2ace #EBDA
@@ -199,9 +198,9 @@ contextweb.com,562541,RESELLER,89ff185a4c4e857c
 smartadserver.com,4125,RESELLER,060d053dcf45cbf3
 themediagrid.com,JTQKMP,RESELLER,35d5010d7789b49d
 beachfront.com,14804,RESELLER,e2541279e8e2ca4d
-appnexus.com,8219,DIRECT,f5ab79cb980f11d1
-sovrn.com,236010,DIRECT,fafdf38b16bf6b2b
-lijit.com,236010,DIRECT,fafdf38b16bf6b2b
+#appnexus.com,8219,DIRECT,f5ab79cb980f11d1
+#sovrn.com,236010,DIRECT,fafdf38b16bf6b2b
+#lijit.com,236010,DIRECT,fafdf38b16bf6b2b
 improvedigital.com,2050,RESELLER
 mintegral.com,10043,RESELLER,0aeed750c80d6423
 sonobi.com,7f5fa520f8,RESELLER,d1a215d9eb5aee9e
@@ -345,6 +344,7 @@ rhythmone.com, 3736557092, RESELLER, a670c89d4a324e47
 pubmatic.com, 158024, DIRECT, 5d62403b186f2ace
 nativo.com,5677,DIRECT
 sonobi.com, 7ad1b9f952, RESELLER, d1a215d9eb5aee9e
+yahoo.com, 59885, RESELLER, e1a5b5b6e3255540
 
 # diDNA E-Planning
 e-planning.net,386a7ee46aa2d8a4,DIRECT,c1ba615865ed87b2
