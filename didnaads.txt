@@ -1,4 +1,4 @@
-#diDNA ads dot txt 8/8/22
+#diDNA ads dot txt 8/16/22
 #diDNA AdX
 didna.io, 4169, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -35,6 +35,8 @@ appnexus.com, 8219, DIRECT, f5ab79cb980f11d1 #diDNA_appnexus
 #diDNA IndexExchange
 indexexchange.com, 186905, DIRECT, 50b1c356f2c5c8fc #diDNA_ix_ob
 indexexchange.com, 189707, DIRECT, 50b1c356f2c5c8fc #diDNA_ix_hb
+indexexchange.com, 199987, RESELLER, 50b1c356f2c5c8fc #diDNA_ix_tam
+
 
 #diDNA Rubicon
 rubiconproject.com, 20100, DIRECT, 0bfd66d529a55807 #diDNA_rubicon_hb
