@@ -1,4 +1,4 @@
-#diDNA ads dot txt 8/16/22
+#diDNA ads dot txt 8/31/22
 #diDNA AdX
 didna.io, 4169, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -291,7 +291,7 @@ onetag.com, 694e68b73971b58, DIRECT #diDNA_nobid
 ##google.com, pub-3769010358500643, RESELLER, f08c47fec0942fa0 #diDNA_nobid
 revcontent.com, 124709, DIRECT #diDNA_nobid
 yahoo.com, 57872, DIRECT #diDNA_nobid
-smartadserver.com,3447,DIRECT #diDNA_nobid
+smartadserver.com,3447,RESELLER #diDNA_nobid
 lijit.com, 273657, DIRECT, fafdf38b16bf6b2b #diDNA_nobid
 sovrn.com, 273657, DIRECT, fafdf38b16bf6b2b #diDNA_nobid
 xandr.com, 11429, DIRECT, f5ab79cb980f11d1 #diDNA_nobid
@@ -306,9 +306,11 @@ sonobi.com, bc2afab5f7, DIRECT, d1a215d9eb5aee9e #diDNA_nobid
 video.unrulymedia.com, 3736557092, RESELLER #diDNA_nobid
 rhythmone.com, 3736557092, RESELLER, a670c89d4a324e47 #diDNA_nobid
 pubmatic.com, 158024, DIRECT, 5d62403b186f2ace #diDNA_nobid
+pubmatic.com, 158355, RESELLER, 5d62403b186f2ace #diDNA_nobid
 nativo.com,5677,DIRECT #diDNA_nobid
 sonobi.com, 7ad1b9f952, RESELLER, d1a215d9eb5aee9e #diDNA_nobid
 yahoo.com, 59885, RESELLER, e1a5b5b6e3255540 #diDNA_nobid
+indexexchange.com, 195491, RESELLER, 50b1c356f2c5c8fc #diDNA_nobid
 
 # diDNA E-Planning
 e-planning.net,386a7ee46aa2d8a4,DIRECT,c1ba615865ed87b2 #diDNA_eplanning_hb
