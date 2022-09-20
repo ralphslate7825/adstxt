@@ -22,7 +22,7 @@ google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
 didna.io, 494n1p15, DIRECT
 
 # End Hockeydb
-#diDNA ads dot txt 8/31/22
+#diDNA ads dot txt 9/20/22
 #diDNA AdX
 didna.io, 4169, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -198,6 +198,7 @@ mintegral.com,10043,RESELLER,0aeed750c80d6423 #diDNA_amazon
 sonobi.com,7f5fa520f8,RESELLER,d1a215d9eb5aee9e #diDNA_amazon
 onetag.com,770a440e65869c2,RESELLER #diDNA_amazon
 indexexchange.com,199987,DIRECT,50b1c356f2c5c8fc #diDNA_amazon
+media.net,8CUZ1MK22,RESELLER #diDNA_amazon
 
 #diDNA Infolinks
 infolinks.com, 3289770, DIRECT #diDNA_infolinks
