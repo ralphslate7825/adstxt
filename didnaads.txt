@@ -1,4 +1,4 @@
-#diDNA ads dot txt 9/20/22
+#diDNA ads dot txt 9/26/22
 #diDNA AdX
 didna.io, 4169, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -552,6 +552,27 @@ contextweb.com, 561118, RESELLER, 89ff185a4c4e857c #diDNA_aax
 appnexus.com, 7911, RESELLER, f5ab79cb980f11d1 #diDNA_aax
 pubmatic.com, 160648, RESELLER, 5d62403b186f2ace #diDNA_aax
 conversantmedia.com, 100270, RESELLER, 03113cd04947736d #diDNA_aax
+
+#diDNA GumGum
+gumgum.com, 13621, DIRECT, ffdef49475d318a9 #diDNA_gumgum
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1 #diDNA_gumgum
+rubiconproject.com, 23434, RESELLER, 0bfd66d529a55807 #diDNA_gumgum
+pubmatic.com, 157897, RESELLER, 5d62403b186f2ace #diDNA_gumgum
+contextweb.com, 558355, RESELLER, 89ff185a4c4e857c #diDNA_gumgum
+emxdgt.com, 1284, RESELLER, 1e1d41537f7cad7f #diDNA_gumgum
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6 #diDNA_gumgum
+improvedigital.com, 1884, RESELLER #diDNA_gumgum
+indexexchange.com, 189872, RESELLER, 50b1c356f2c5c8fc, #diDNA_gumgum
+smartadserver.com, 4005, RESELLER #diDNA_gumgum
+admanmedia.com, 799, RESELLER #diDNA_gumgum
+revcontent.com, 110029, RESELLER #diDNA_gumgum
+imds.tv, 82151, RESELLER, ae6c32151e71f19d #diDNA_gumgum
+outbrain.com, 00254374f0c468f3b2732db17fd42cb6e5, RESELLER #diDNA_gumgum
+video.unrulymedia.com, 78519861, DIRECT #diDNA_gumgum
+google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0 #diDNA_gumgum
+inmobi.com, 5ca65892bdc34cc8a63ea3550cbd15d0, RESELLER, 83e75a7ae333ca9d #diDNA_gumgum
+synacor.com, 82151, RESELLER, e108f11b2cdf7d5b #diDNA_gumgum
+rhythmone.com, 78519861, RESELLER, a670c89d4a324e47 #diDNA_gumgum
 
 #contact diDNA
 contact=ops@diDNA.io
