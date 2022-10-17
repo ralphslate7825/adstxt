@@ -24,7 +24,7 @@ google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
 didna.io, 494n1p15, DIRECT
 
 # End Hockeydb
-#diDNA ads dot txt 10/13/22
+#diDNA ads dot txt 10/17/22
 #diDNA AdX
 didna.io, 4169, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -95,8 +95,9 @@ smartadserver.com, 4342, RESELLER #diDNA_sharethrough
 smartadserver.com, 4012, RESELLER #diDNA_sharethrough
 
 #diDNA Triple Lift
-triplelift.com, 8065, DIRECT, 6c33edb13117fd86 #diDNA_triplelift_hb
-appnexus.com, 1314, RESELLER, f5ab79cb980f11d1 #diDNA_triplelift
+triplelift.com,12666, direct, 6c33edb13117fd86 #diDNA_triplelift_hb
+triplelift.com,12666-EB, direct, 6c33edb13117fd86 #diDNA_triplelift_ob
+
 
 #diDNA AdaptMX RTB
 amxrtb.com, 105199445, DIRECT #diDNA_amx_hb
