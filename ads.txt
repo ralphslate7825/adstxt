@@ -3,7 +3,7 @@ MANAGERDOMAIN=freestar.com
 freestar.com, 1458, DIRECT
 
 # Freestar.io ads.txt File
-# Last updated 11-01-22
+# Last updated 11-02-22
 
 
 # ads.txt to be placed in the root level of the domain
@@ -491,29 +491,23 @@ appnexus.com, 3484, DIRECT #Xandr
 beachfront.com, 5684, DIRECT, e2541279e8e2ca4d #Beachfront
 
 #Rise
-risecodes.com,61df247711c68300011cd447, DIRECT
-spotxchange.com, 304965, RESELLER, 7842df1d2fe2db34
-spotx.tv, 304965, RESELLER, 7842df1d2fe2db34
+risecodes.com, 61df247711c68300011cd447, DIRECT
 rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
 indexexchange.com, 194590, RESELLER, 50b1c356f2c5c8fc
 openx.com, 537140488, RESELLER, 6a698e2ec38604c6
-Pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
-advertising.com, 28954, RESELLER
-yahoo.com, 59261, RESELLER
-video.unrulymedia.com, 1561643954, RESELLER, a670c89d4a324e47
-rhythmone.com, 1561643954, RESELLER, a670c89d4a324e47
-EMXDGT.com, 1584, RESELLER, 1e1d41537f7cad7f
-sonobi.com, 4a289cdd79, RESELLER, d1a215d9eb5aee9e
-synacor.com, 82401, RESELLER, e108f11b2cdf7d5b
-advertising.com, 19623, RESELLER
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
+yahoo.com, 59261, RESELLER, e1a5b5b6e3255540
+emxdgt.com, 1584, RESELLER, 1e1d41537f7cad7f
+imds.tv, 82401, RESELLER, ae6c32151e71f19d
 yahoo.com, 55317, RESELLER, e1a5b5b6e3255540
 sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
 yieldmo.com, 2754490424016969782, RESELLER
 loopme.com, 11362, RESELLER, 6c8d5f95897a5a3b
+media.net, 8CUQ6928Q, RESELLER
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
-Media.net, 8CUQ6928Q, RESELLER
-Contextweb.com ,562615,RESELLER,89ff185a4c4e857c
-cpmstar.com, 51543, RESELLER
+contextweb.com ,562615,RESELLER,89ff185a4c4e857c
+inmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER, 83e75a7ae333ca9d
+xandr.com, 14082, RESELLER
 
 #Chocolate
 chocolateplatform.com, 14069, DIRECT, 49a66ce31a704197
