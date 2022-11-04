@@ -3,7 +3,7 @@ MANAGERDOMAIN=freestar.com
 freestar.com, 1458, DIRECT
 
 # Freestar.io ads.txt File
-# Last updated 11-02-22
+# Last updated 11-04-22
 
 
 # ads.txt to be placed in the root level of the domain
@@ -190,6 +190,7 @@ openx.com, 537120563, RESELLER, 6a698e2ec38604c6
 advertising.com, 12543, RESELLER 
 indexexchange.com, 191973, RESELLER, 50b1c356f2c5c8fc 
 conversantmedia.com, 100141, DIRECT 
+triplelift.com, 12503, RESELLER, 6c33edb13117fd86
 
 #Teads
 teads.tv, 8917, DIRECT, 15a9c44f6d26cbe1
