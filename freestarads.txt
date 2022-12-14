@@ -723,8 +723,6 @@ triplelift.com, 6030, RESELLER, 6c33edb13117fd86
 openx.com, 540780517, RESELLER, 6a698e2ec38604c6
 yahoo.com, 59407, RESELLER, e1a5b5b6e3255540
 indexexchange.com, 196326, RESELLER
-synacor.com, 82302, RESELLER, e108f11b2cdf7d5b
-imds.tv, 82302, RESELLER, ae6c32151e71f19d
 rubiconproject.com, 17598, RESELLER, 0bfd66d529a55807
 rhythmone.com, 699546687, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 699546687, RESELLER
@@ -738,12 +736,8 @@ contextweb.com, 562733, RESELLER, 89ff185a4c4e857c
 smartadserver.com, 4106, RESELLER, 060d053dcf45cbf3
 krushmedia.com, AJxF6R470a9M6CaTvK, RESELLER
 sharethrough.com, xz7QjFBY, RESELLER, d53b998a7bd4ecd2
-e-planning.net, 97ce4bb5984d4162, RESELLER , c1ba615865ed87b2
 adyoulike.com, 53264963677efeda057eef7db2cb305f, RESELLER
-Usadigitalnetwork.com, 1201, RESELLER, 178930bem46da19a8901
-iqzone.com, IQ161 ,RESELLER
-betweendigital.com, 44808, RESELLER
-betweendigital.com, 44938, RESELLER
+
 
 
 # PUBLISHER SPECIFIC ADS.TXT INFO BELOW THIS LINE
