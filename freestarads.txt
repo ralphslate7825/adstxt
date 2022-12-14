@@ -151,7 +151,6 @@ openx.com, 537149485, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 50758, RESELLER, 5d62403b186f2ace
 contextweb.com, 558355, RESELLER
 33across.com, 0013300001r0t9mAAA, RESELLER
-synacor.com, 82151, RESELLER, e108f11b2cdf7d5b
 coxmt.com, 2000067995202, RESELLER
 appnexus.com, 9316, RESELLER, f5ab79cb980f11d1
 pubmatic.com, 156344, RESELLER, 5d62403b186f2ace
@@ -358,7 +357,6 @@ sonobi.com, 263c622435 , RESELLER, d1a215d9eb5aee9e
 sovrn.com, 391309, DIRECT, fafdf38b16bf6b2b
 spotx.tv, 239904, DIRECT, 7842df1d2fe2db34
 spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
-synacor.com, 82101, RESELLER, e108f11b2cdf7d5b
 undertone.com, 3817, DIRECT
 wideorbit.com, 766, DIRECT, 009ac71611fe32ff
 yahoo.com, 57289, RESELLER, e1a5b5b6e3255540 #33Across #hb #tag #video
@@ -518,7 +516,6 @@ openx.com, 537140488, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
 yahoo.com, 59261, RESELLER, e1a5b5b6e3255540
 emxdgt.com, 1584, RESELLER, 1e1d41537f7cad7f
-imds.tv, 82401, RESELLER, ae6c32151e71f19d
 yahoo.com, 55317, RESELLER, e1a5b5b6e3255540
 sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
 yieldmo.com, 2754490424016969782, RESELLER
