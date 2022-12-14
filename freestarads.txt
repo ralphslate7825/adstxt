@@ -3,7 +3,7 @@ MANAGERDOMAIN=freestar.com
 freestar.com, 1458, DIRECT
 
 # Freestar.io ads.txt File
-# Last updated 12-13-22
+# Last updated 12-14-22
 
 
 # ads.txt to be placed in the root level of the domain
@@ -738,7 +738,8 @@ contextweb.com, 562733, RESELLER, 89ff185a4c4e857c
 smartadserver.com, 4106, RESELLER, 060d053dcf45cbf3
 krushmedia.com, AJxF6R470a9M6CaTvK, RESELLER
 sharethrough.com, xz7QjFBY, RESELLER, d53b998a7bd4ecd2
-e-planning.net, 97ce4bb5984d4162, RESELLER , c1ba615865ed87b2 adyoulike.com, 53264963677efeda057eef7db2cb305f, RESELLER
+e-planning.net, 97ce4bb5984d4162, RESELLER , c1ba615865ed87b2
+adyoulike.com, 53264963677efeda057eef7db2cb305f, RESELLER
 Usadigitalnetwork.com, 1201, RESELLER, 178930bem46da19a8901
 iqzone.com, IQ161 ,RESELLER
 betweendigital.com, 44808, RESELLER
