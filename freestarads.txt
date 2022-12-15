@@ -3,7 +3,7 @@ MANAGERDOMAIN=freestar.com
 freestar.com, 1458, DIRECT
 
 # Freestar.io ads.txt File
-# Last updated 12-14-22
+# Last updated 12-15-22
 
 
 # ads.txt to be placed in the root level of the domain
@@ -461,9 +461,7 @@ jeeng.com, 3339 , DIRECT
 #PubNative
 lkqd.net, 446, DIRECT, 59c49fa9598a0117
 
-#Freestar Exchange
-admanmedia.com, 596, DIRECT #AcuityAds
-appnexus.com, 8804, RESELLER, f5ab79cb980f11d1 #Adman Media
+#AdaptMX
 amxrtb.com, 105199372, DIRECT #AdaptMX
 indexexchange.com, 191503, RESELLER #AdaptMX
 appnexus.com, 12290, RESELLER #AdaptMX
@@ -477,36 +475,7 @@ openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #AdaptMX
 rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #AdaptMX
 advertising.com, 28305, RESELLER #AdaptMX
 yahoo.com, 49648, RESELLER #AdaptMX
-appnexus.com, 4052, RESELLER #Conversant
-conversantmedia.com, 40583, DIRECT, 03113cd04947736d #Conversant
-openx.com, 540031703, RESELLER, 6a698e2ec38604c6 #Conversant
-gumgum.com, 12319, DIRECT, ffdef49475d318a9 #Gumgum
-rubiconproject.com, 13218, DIRECT, 0bfd66d529a55807 #Rubicon
-lkqd.net, 615, DIRECT, 59c49fa9598a0117 #LKQD
-onetag.com, 65e2f0d9f4ee117, DIRECT #OneTag
-pubmatic.com, 156961, DIRECT, 5d62403b186f2ace #Pubmatic
-contextweb.com, 562041, DIRECT, 89ff185a4c4e857c #Pulsepoint
-rhythmone.com, 630876328, DIRECT, a670c89d4a324e47 #RhythmOne
-spotx.tv, 228693, RESELLER, 7842df1d2fe2db34 #SpotX
-spotxchange.com, 228693, RESELLER, 7842df1d2fe2db34 #SpotX
-trafficroots.com, 3091, DIRECT #Traffic Roots
-appnexus.com, 6849, RESELLER #Unruly
-indexexchange.com, 182257, RESELLER #Unruly
-rhythmone.com, 3565817048, DIRECT #Unruly
-rubiconproject.com, 15268, RESELLER #Unruly
-video.unrulymedia.com, 3565817048, DIRECT #Unruly
-indexexchange.com, 183875, RESELLER, 50b1c356f2c5c8fc #VerizonMedia
-openx.com, 537125356, RESELLER, 6a698e2ec38604c6 #VerizonMedia
-pubmatic.com, 156078, RESELLER, 5d62403b186f2ace #VerizonMedia
-appnexus.com, 11664, RESELLER #VerizonMedia
-EMXDGT.com, 273, RESELLER, 1e1d41537f7cad7f #VerizonMedia
-rubiconproject.com, 17250, RESELLER, 0bfd66d529a55807 #VerizonMedia
-triplelift.com, 2792, RESELLER, 6c33edb13117fd86 #VerizonMedia
-contextweb.com, 562258, RESELLER, 89ff185a4c4e857c #VerizonMedia
-yahoo.com, 58725, RESELLER #VerizonMedia S2S
-advertising.com, 28687, DIRECT #VerizonMedia Video
-appnexus.com, 3484, DIRECT #Xandr
-beachfront.com, 5684, DIRECT, e2541279e8e2ca4d #Beachfront
+
 
 #Rise
 risecodes.com, 61df247711c68300011cd447, DIRECT
