@@ -3,7 +3,7 @@ MANAGERDOMAIN=freestar.com
 freestar.com, 1458, DIRECT
 
 # Freestar.io ads.txt File
-# Last updated 12-19-22
+# Last updated 01-11-23
 
 
 # ads.txt to be placed in the root level of the domain
@@ -681,7 +681,7 @@ onetag.com,770a440e65869c2,RESELLER #FS:UK #AmazonA9
 media.net,8CUZ1MK22,RESELLER  #FS:UK #AmazonA9
 
 #MinuteMedia
- minutemedia.com, 014kg58nmg7hk08tk, RESELLER
+minutemedia.com, 014kg58nmg7hk08tk, RESELLER
 pubmatic.com, 161683, RESELLER, 5d62403b186f2ace
 appnexus.com, 8381, RESELLER
 triplelift.com, 6030, RESELLER, 6c33edb13117fd86
@@ -705,8 +705,6 @@ sharethrough.com, xz7QjFBY, RESELLER, d53b998a7bd4ecd2
 adyoulike.com, 53264963677efeda057eef7db2cb305f, RESELLER
 amxrtb.com, 105199663, RESELLER
 sonobi.com, 37fbaf262c, RESELLER, d1a215d9eb5aee9e
-
-
 
 # PUBLISHER SPECIFIC ADS.TXT INFO BELOW THIS LINE
 stnvideo.com, VNtuvJl1oDDXuVcOHcbo5w, DIRECT
