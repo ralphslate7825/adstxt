@@ -3,7 +3,7 @@ MANAGERDOMAIN=freestar.com
 freestar.com, 1458, DIRECT
 
 # Freestar.io ads.txt File
-# Last updated 01-11-23
+# Last updated 01-13-23
 
 
 # ads.txt to be placed in the root level of the domain
@@ -491,9 +491,14 @@ yieldmo.com, 2754490424016969782, RESELLER
 loopme.com, 11362, RESELLER, 6c8d5f95897a5a3b
 media.net, 8CUQ6928Q, RESELLER
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
-contextweb.com ,562615,RESELLER,89ff185a4c4e857c
+contextweb.com ,562615, RESELLER,89ff185a4c4e857c
 inmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER, 83e75a7ae333ca9d
 xandr.com, 14082, RESELLER
+imds.tv, 82401, RESELLER, ae6c32151e71f19d
+sonobi.com, 4a289cdd79, RESELLER, d1a215d9eb5aee9e
+amxrtb.com, 105199691, RESELLER
+video.unrulymedia.com,1352466146,RESELLER
+onetag.com, 69f48c2160c8113, RESELLER
 
 #Chocolate
 chocolateplatform.com, 14069, DIRECT, 49a66ce31a704197
