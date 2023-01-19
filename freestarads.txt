@@ -3,7 +3,7 @@ MANAGERDOMAIN=freestar.com
 freestar.com, 1458, DIRECT
 
 # Freestar.io ads.txt File
-# Last updated 01-13-23
+# Last updated 01-19-23
 
 
 # ads.txt to be placed in the root level of the domain
@@ -89,7 +89,6 @@ rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
 yahoo.com,55029,RESELLER,e1a5b5b6e3255540
 admanmedia.com,844,DIRECT
 sharethrough.com,7144eb80,RESELLER,d53b998a7bd4ecd2
-emxdgt.com,2009,RESELLER,1e1d41537f7cad7f
 appnexus.com,1356,RESELLER,f5ab79cb980f11d1
 smartadserver.com,3525,RESELLER,060d053dcf45cbf3
 themediagrid.com,SRU5VK,DIRECT
@@ -263,7 +262,6 @@ contextweb.com, 561707, RESELLER, 89ff185a4c4e857c
 openx.com, 540236670, RESELLER
 appnexus.com, 1868, RESELLER #banner
 appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
-EMXDGT.com, 273, RESELLER, 1e1d41537f7cad7f
 indexexchange.com, 184110, RESELLER, 50b1c356f2c5c8fc
 openx.com, 537125356, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 156138, RESELLER, 5d62403b186f2ace
@@ -306,7 +304,6 @@ indexexchange.com, 191923, RESELLER
 adform.com, 2078, RESELLER
 primis.tech, 27975, DIRECT
 xandr.com, 13171, RESELLER
-emxdgt.com, 1349, RESELLER, 1e1d41537f7cad7f
 supply.colossusssp.com, 290, RESELLER, 6c5b49d96ec1b458
 yahoo.com, 59260, RESELLER
 triplelift.com, 8210, RESELLER, 6c33edb13117fd86
@@ -337,7 +334,6 @@ contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
 contextweb.com, 561910, DIRECT, 89ff185a4c4e857c
 conversantmedia.com, 100032, DIRECT, 03113cd04947736d
 districtm.io, 101856, RESELLER, 3fd707be9c4527c3
-EMXDGT.com, 1251, RESELLER, 1e1d41537f7cad7f
 google.com, pub-5717092533913515, DIRECT, f08c47fec0942fa0 #NPMpartners
 google.com, pub-9685734445476814, DIRECT, f08c47fec0942fa0
 improvedigital.com, 1470, RESELLER
@@ -484,7 +480,6 @@ indexexchange.com, 194590, RESELLER, 50b1c356f2c5c8fc
 openx.com, 537140488, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
 yahoo.com, 59261, RESELLER, e1a5b5b6e3255540
-emxdgt.com, 1584, RESELLER, 1e1d41537f7cad7f
 yahoo.com, 55317, RESELLER, e1a5b5b6e3255540
 sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
 yieldmo.com, 2754490424016969782, RESELLER
@@ -574,7 +569,6 @@ google.com, pub-4299156005397946, reseller, f08c47fec0942fa0
 google.com, pub-6373315980741255, reseller, f08c47fec0942fa0
 pubmatic.com, 60809, reseller, 5d62403b186f2ace
 advertising.com, 6202, reseller
-emxdgt.com, 1918, reseller, 1e1d41537f7cad7f
 xandr.com, 3251, reseller
 lijit.com, 268479-eb, reseller, fafdf38b16bf6b2b
 
@@ -671,7 +665,6 @@ yahoo.com,55029,RESELLER,e1a5b5b6e3255540 #FS:UK #AmazonA9
 gumgum.com,14141,RESELLER,ffdef49475d318a9 #FS:UK #AmazonA9
 admanmedia.com,726,RESELLER #FS:UK #AmazonA9
 sharethrough.com,7144eb80,RESELLER #FS:UK #AmazonA9
-emxdgt.com,2009,RESELLER,1e1d41537f7cad7f #FS:UK #AmazonA9
 appnexus.com,1356,RESELLER,f5ab79cb980f11d1 #FS:UK #AmazonA9
 contextweb.com,562541,RESELLER,89ff185a4c4e857c #FS:UK #AmazonA9
 smartadserver.com,4125,RESELLER,060d053dcf45cbf3 #FS:UK #AmazonA9
