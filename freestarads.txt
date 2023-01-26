@@ -3,7 +3,7 @@ MANAGERDOMAIN=freestar.com
 freestar.com, 1458, DIRECT
 
 # Freestar.io ads.txt File
-# Last updated 01-19-23
+# Last updated 01-26-23
 
 
 # ads.txt to be placed in the root level of the domain
@@ -207,8 +207,6 @@ yieldmo.com, 2753675785523896670, Direct
 adingo.jp, 23401, DIRECT
 pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
 
-#Mantis
-mantisadnetwork.com, 5c3404d83e048a00261ad27f, DIRECT
 
 #Connatix
 connatix.com, 101804, DIRECT, 2af98acdee0e81ed
