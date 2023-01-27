@@ -3,7 +3,7 @@ MANAGERDOMAIN=freestar.com
 freestar.com, 1458, DIRECT
 
 # Freestar.io ads.txt File
-# Last updated 01-26-23
+# Last updated 01-27-23
 
 
 # ads.txt to be placed in the root level of the domain
@@ -386,6 +386,7 @@ lijit.com, 338850, RESELLER, fafdf38b16bf6b2b
 
 #Improve Digital 
 improvedigital.com, 1965, DIRECT
+improvedigital.com, 2208, DIRECT 
 
 #InMobi
 inmobi.com, 44ce8dca19d54696bbb793d4607fecb0, DIRECT, 83e75a7ae333ca9d
