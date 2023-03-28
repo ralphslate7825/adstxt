@@ -24,7 +24,7 @@ google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
 didna.io, 494n1p15, DIRECT
 
 # End Hockeydb
-#diDNA ads dot txt 1/26/23
+#diDNA ads dot txt 3/28/23
 #diDNA AdX
 didna.io, 4169, RESELLER
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -55,7 +55,6 @@ indexexchange.com, 186905, RESELLER, 50b1c356f2c5c8fc #diDNA_ix_ob
 indexexchange.com, 189707, RESELLER, 50b1c356f2c5c8fc #diDNA_ix_hb
 indexexchange.com, 199987, RESELLER, 50b1c356f2c5c8fc #diDNA_ix_tam
 
-
 #diDNA Rubicon
 rubiconproject.com, 20100, RESELLER, 0bfd66d529a55807 #diDNA_rubicon_hb
 rubiconproject.com, 20102, RESELLER, 0bfd66d529a55807 #diDNA_rubicon_ob
@@ -73,6 +72,7 @@ rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #diDNA_sovrn
 #diDNA Sharethrough 
 sharethrough.com, 3232726a, RESELLER, d53b998a7bd4ecd2 #diDNA_sharethrough_hb
 sharethrough.com, 6KW1z7oe, RESELLER, d53b998a7bd4ecd2 #diDNA_sharethrough_ob
+sharethrough.com, ScFLmJP7, RESELLER, d53b998a7bd4ecd2 #diDNA_sharethrough_ortb
 pubmatic.com, 156557, RESELLER, 5d62403b186f2ace #diDNA_sharethrough
 pubmatic.com, 158723, RESELLER, 5d62403b186f2ace #diDNA_sharethrough
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807 #diDNA_sharethrough
