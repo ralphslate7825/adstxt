@@ -23,6 +23,9 @@ google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
 #didna
 didna.io, 494n1p15, DIRECT
 
+OWNERDOMAIN=hockeydb.com
+MANAGERDOMAIN=didna.io
+
 # End Hockeydb
 #diDNA ads dot txt 3/28/23
 #diDNA AdX
