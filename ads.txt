@@ -41,14 +41,14 @@ yahoo.com, 55017, RESELLER, e1a5b5b6e3255540 #diDNA_yahoossp_hb
 yahoo.com, 58722, RESELLER #diDNA_yahoossp_ob
 
 #diDNA AOL - OneMobile - Display
-aolcloud.net, 11609, DIRECT #diDNA_onemobile_hb
+aolcloud.net, 11609, DIRECT, #diDNA_onemobile_hb
 yahoo.com, 55017, RESELLER, e1a5b5b6e3255540 #diDNA_onemobile_hb
 #diDNA AOL - OneMobile - Video
 
 #diDNA Pubmatic
-pubmatic.com, 159744, RESELLER, 5d62403b186f2ace #diDNA_pubmatic_ob
-pubmatic.com, 159745, RESELLER, 5d62403b186f2ace #diDNA_pubmatic_hb_display
-pubmatic.com, 161258, RESELLER, 5d62403b186f2ace #diDNA_pubmatic_hb_video
+pubmatic.com, 159744, DIRECT, 5d62403b186f2ace #diDNA_pubmatic_ob
+pubmatic.com, 159745, DIRECT, 5d62403b186f2ace #diDNA_pubmatic_hb_display
+pubmatic.com, 161258, DIRECT, 5d62403b186f2ace #diDNA_pubmatic_hb_video
 
 #diDNA Appnexus
 appnexus.com, 8219, RESELLER, f5ab79cb980f11d1 #diDNA_appnexus
