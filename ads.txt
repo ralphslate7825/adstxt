@@ -27,7 +27,7 @@ OWNERDOMAIN=hockeydb.com
 MANAGERDOMAIN=didna.io
 
 # End Hockeydb
-#diDNA ads dot txt 3/28/23
+#diDNA ads dot txt 5/10/23
 #diDNA AdX
 didna.io, 4169, RESELLER
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -217,7 +217,6 @@ rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807 #diDNA_infolinks
 onetag.com, 598ce3ddaee8c90, RESELLER #diDNA_infolinks
 e-planning.net, 901a809a65f984a4, RESELLER, c1ba615865ed87b2 #diDNA_infolinks
 improvedigital.com, 2016, RESELLER #diDNA_infolinks
-inmobi.com, b4821b1325c44dc581b04d743ca46575, RESELLER, 83e75a7ae333ca9d #diDNA_infolinks
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807 #diDNA_infolinks
 themediagrid.com, V19ZSB, RESELLER, 35d5010d7789b49d #diDNA_infolinks
 zeta.com, 861, RESELLER #diDNA_infolinks
@@ -359,8 +358,6 @@ contextweb.com, 562704, RESELLER, 89ff185a4c4e857c #diDNA_aniview
 google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #diDNA_aniview
 sharethrough.com, zLsEa05k, RESELLER, d53b998a7bd4ecd2 #diDNA_aniview
 google.com, pub-4586415728471297, RESELLER, f08c47fec0942fa0 #diDNA_aniview
-synacor.com, 82171, RESELLER, e108f11b2cdf7d5b #diDNA_aniview
-imds.tv, 82171, RESELLER, ae6c32151e71f19d #diDNA_aniview
 conversantmedia.com, 100195, RESELLER, 03113cd04947736d #diDNA_aniview
 smartadserver.com, 4255, RESELLER #diDNA_aniview
 smartadserver.com, 4071, RESELLER #diDNA_aniview
@@ -385,7 +382,6 @@ openx.com, 540847574, RESELLER, 6a698e2ec38604c6 #diDNA_exco
 pubmatic.com, 158554, RESELLER, 5d62403b186f2ace #diDNA_exco
 pubmatic.com, 158901, RESELLER, 5d62403b186f2ace #diDNA_exco
 rubiconproject.com, 17136, RESELLER, 0bfd66d529a55807 #diDNA_exco
-rubiconproject.com, 18220, RESELLER, 0bfd66d529a55807 #diDNA_exco
 rhythmone.com, 79885747, RESELLER, a670c89d4a324e47 #diDNA_exco
 smartadserver.com, 3039, RESELLER #diDNA_exco
 lijit.com, 241560, RESELLER, fafdf38b16bf6b2b #diDNA_exco
@@ -397,7 +393,6 @@ rhythmone.com, 2587805878, RESELLER, a670c89d4a324e47 #diDNA_exco
 google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #diDNA_exco
 pubmatic.com, 157220, RESELLER, 5d62403b186f2ace #diDNA_exco
 indexexchange.com, 185192, RESELLER, 50b1c356f2c5c8fc #diDNA_exco
-spotx.tv, 108706, RESELLER, 7842df1d2fe2db34 #diDNA_exco
 spotx.tvspotxchange.com, 108706, RESELLER, 7842df1d2fe2db34 #diDNA_exco
 rubiconproject.com, 17346, RESELLER, 0bfd66d529a55807 #diDNA_exco
 openx.com, 538929384, RESELLER, 6a698e2ec38604c6 #diDNA_exco
@@ -453,7 +448,6 @@ onetag.com, 5d1628750185ace, RESELLER #diDNA_resetdigital
 
 #diDNA GumGum
 gumgum.com, 13621, RESELLER, ffdef49475d318a9 #diDNA_gumgum
-gumgum.com, 13621, RESELLER, ffdef49475d318a9 #diDNA_gumgum
 appnexus.com, 2758, RESELLER, f5ab79cb980f11d1 #diDNA_gumgum
 rubiconproject.com, 23434, RESELLER, 0bfd66d529a55807 #diDNA_gumgum
 pubmatic.com, 157897, RESELLER, 5d62403b186f2ace #diDNA_gumgum
@@ -461,7 +455,6 @@ contextweb.com, 558355, RESELLER, 89ff185a4c4e857c #diDNA_gumgum
 emxdgt.com, 1284, RESELLER, 1e1d41537f7cad7f #diDNA_gumgum
 openx.com, 537149485, RESELLER, 6a698e2ec38604c6 #diDNA_gumgum
 improvedigital.com, 1884, RESELLER #diDNA_gumgum
-indexexchange.com, 189872, RESELLER, 50b1c356f2c5c8fc #diDNA_gumgum
 smartadserver.com, 4005, RESELLER #diDNA_gumgum
 admanmedia.com, 799, RESELLER #diDNA_gumgum
 revcontent.com, 110029, RESELLER #diDNA_gumgum
@@ -534,6 +527,39 @@ appnexus.com,1356,RESELLER,f5ab79cb980f11d1 #diDNA_DailyMotion
 emxdgt.com,1289,RESELLER,1e1d41537f7cad7f #diDNA_DailyMotion
 districtm.io,100025,RESELLER,3fd707be9c4527c3 #diDNA_DailyMotion
 video.unrulymedia.com,1107452720,RESELLER,a670c89d4a324e47 #diDNA_DailyMotion
+
+#diDNA Colossus SSP
+supply.colossusssp.com, 563, DIRECT, 6c5b49d96ec1b458 #diDNA_colossus
+appnexus.com, 10490, RESELLER, f5ab79cb980f11d1 #diDNA_colossus
+yieldmo.com, 3078438591206989879, RESELLER, #ortb #diDNA_colossus
+
+#diDNA RTB House
+rtbhouse.com, AMuPksjBXvwLaZh4akLX, DIRECT #diDNA_rtbhouse
+
+#diDNA Krush Media
+krushmedia.com, AJxF6R547a9M6CaTvK, RESELLER #diDNA_krushmedia
+digimedllc.com, T3CuGr547nI3eQCxtp, RESELLER #diDNA_krushmedia
+33across.com, 0010b00002ZoRYhAAN, DIRECT, bbea06d9c4d2853c #diDNA_krushmedia_display
+video.unrulymedia.com, 9085206363819624071, DIRECT #diDNA_krushmedia
+gumgum.com, 14222, RESELLER, ffdef49475d318a9 #diDNA_krushmedia_display
+media.net, 8CUT87EOU, DIRECT #diDNA_krushmedia_display #diDNA_krushmedia_video
+video.unrulymedia.com, 2736329702851206590, DIRECT #diDNA_krushmedia_video
+freewheel.tv,1522514,RESELLER #diDNA_krushmedia_video
+media.net, 8CUT87EOU, DIRECT #diDNA_krushmedia_video
+
+#diDNA Mediafuse
+mediafuse.com, 689, DIRECT #diDNA_mediafuse
+appnexus.com, 9538, DIRECT, f5ab79cb980f11d1 #diDNA_mediafuse
+rubiconproject.com, 24434, DIRECT, 0bfd66d529a55807 #diDNA_mediafuse
+video.unrulymedia.com, 2997140015, DIRECT #diDNA_mediafuse
+indexexchange.com, 182257, RESELLER, 50b1c356f2c5c8fc #diDNA_mediafuse
+appnexus.com, 6849, RESELLER, f5ab79cb980f11d1 #diDNA_mediafuse
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807 #diDNA_mediafuse
+pubmatic.com, 159277, RESELLER, 5d62403b186f2ace #diDNA_mediafuse
+advertising.com, 28605, RESELLER #diDNA_mediafuse
+openx.com, 543878511, RESELLER, 6a698e2ec38604c6 #diDNA_mediafuse
+improvedigital.com, 1699, RESELLER #diDNA_mediafuse
+
 
 #contact diDNA
 contact=ops@diDNA.io
