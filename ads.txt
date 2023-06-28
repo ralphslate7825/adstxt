@@ -27,7 +27,7 @@ OWNERDOMAIN=hockeydb.com
 MANAGERDOMAIN=didna.io
 
 # End Hockeydb
-#diDNA ads dot txt 5/10/23
+#diDNA ads dot txt 6/28/23
 #diDNA AdX
 didna.io, 4169, RESELLER
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -559,6 +559,20 @@ pubmatic.com, 159277, RESELLER, 5d62403b186f2ace #diDNA_mediafuse
 advertising.com, 28605, RESELLER #diDNA_mediafuse
 openx.com, 543878511, RESELLER, 6a698e2ec38604c6 #diDNA_mediafuse
 improvedigital.com, 1699, RESELLER #diDNA_mediafuse
+
+#diDNA Criteo
+criteo.com, B-071800, DIRECT, 9fac4a4a87c2a44f #diDNA_criteo
+themediagrid.com, MP146W, DIRECT, 35d5010d7789b49d #diDNA_criteo
+
+#diDNA AdYouLike
+adyoulike.com, f1e9cd7b291282fcad240a455fd65c12, DIRECT #diDNA_adyoulike
+appnexus.com, 7664, DIRECT #diDNA_adyoulike
+appnexus.com, 9733, RESELLER #diDNA_adyoulike
+rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807 #diDNA_adyoulike
+pubmatic.com, 160925, RESELLER, 5d62403b186f2ace #diDNA_adyoulike
+spotim.market, sp_AYL2022, RESELLER, 077e5f709d15bdbb #diDNA_adyoulike
+lijit.com, 408376, RESELLER, fafdf38b16bf6b2b #diDNA_adyoulike
+onetag.com, 7a07370227fc000, RESELLER #diDNA_adyoulike
 
 
 #contact diDNA
