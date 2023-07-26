@@ -27,7 +27,7 @@ OWNERDOMAIN=hockeydb.com
 MANAGERDOMAIN=didna.io
 
 # End Hockeydb
-#diDNA ads dot txt 7/24/23
+#diDNA ads dot txt 7/26/23
 #diDNA AdX
 didna.io, 4169, RESELLER
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -38,7 +38,6 @@ google.com, pub-2829411399762487, RESELLER, f08c47fec0942fa0 #diDNA_google_adsen
 
 #diDNA Yahoo SSP
 yahoo.com, 55017, RESELLER, e1a5b5b6e3255540 #diDNA_yahoossp_hb
-yahoo.com, 58722, RESELLER #diDNA_yahoossp_ob
 
 #diDNA AOL - OneMobile - Display
 aolcloud.net, 11609, DIRECT, #diDNA_onemobile_hb
@@ -506,6 +505,27 @@ openx.com, 540031703, RESELLER, 6a698e2ec38604c6 #diDNA_epsilon
 pubmatic.com, 158100, RESELLER, 5d62403b186f2ace #diDNA_epsilon
 rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807 #diDNA_epsilon
 yahoo.com, 55771, RESELLER, e1a5b5b6e3255540 #diDNA_epsilon
+
+#diDNA RiseCodes
+risecodes.com, 5e5bd88e0005a80001867579, DIRECT #diDNA_rise
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace #diDNA_rise
+xandr.com, 14082, RESELLER #diDNA_rise
+rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807 #diDNA_rise
+sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2 #diDNA_rise
+sonobi.com, 4a289cdd79, RESELLER, d1a215d9eb5aee9e #diDNA_rise
+indexexchange.com, 194590, RESELLER, 50b1c356f2c5c8fc #diDNA_rise
+video.unrulymedia.com, 335119963, RESELLER #diDNA_rise
+contextweb.com,562615,RESELLER,89ff185a4c4e857c #diDNA_rise
+loopme.com, 11362, RESELLER, 6c8d5f95897a5a3b #diDNA_rise
+yieldmo.com, 2754490424016969782, RESELLER #diDNA_rise
+openx.com, 537140488, RESELLER, 6a698e2ec38604c6 #diDNA_rise
+media.net, 8CUQ6928Q, RESELLER #diDNA_rise
+onetag.com, 69f48c2160c8113, RESELLER #diDNA_rise
+33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c #diDNA_rise
+smartadserver.com, 4284, RESELLER #diDNA_rise
+freewheel.tv, 1590601, RESELLER #diDNA_rise
+freewheel.tv, 1590606, RESELLER #diDNA_rise
+themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d #diDNA_rise
 
 
 #contact diDNA
