@@ -500,6 +500,7 @@ themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d #diDNA_rise
 
 
 #contact diDNA
+MANAGERDOMAIN=didna.io
 contact=ops@diDNA.io
 contact=http://diDNA.io/contact/
 # Optimized by Sellers.guide Wizard. Powered by Primis @ 2023
