@@ -84,6 +84,7 @@ smaato.com, 1100047713, RESELLER, 07bcf65f187117b4 #diDNA_sharethrough
 yahoo.com, 59531, RESELLER, e1a5b5b6e3255540 #diDNA_sharethrough
 smartadserver.com, 4342, RESELLER #diDNA_sharethrough
 smartadserver.com, 4012, RESELLER #diDNA_sharethrough
+improvedigital.com, 2309, RESELLER #diDNA_sharethrough
 
 #diDNA Triple Lift
 triplelift.com,12666, RESELLER, 6c33edb13117fd86 #diDNA_triplelift_hb
