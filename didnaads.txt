@@ -119,7 +119,7 @@ indexexchange.com,199987,DIRECT,50b1c356f2c5c8fc #diDNA_amazon
 media.net,8CUZ1MK22,RESELLER #diDNA_amazon
 risecodes.com,63832beef8189a00015cb6d3,RESELLER #diDNA_amazon
 mediago.io,045ac24b888bcf59a09731e7f0f2084f,RESELLER #diDNA_amazon
-adyoulike.com,7463c359225e043c111036d7a29affa5,RESELLER #diDNA_amazon
+adyoulike.com,7463c359225e043c111036d7a29affa5,RESELLER, 4ad745ead2958bf7 #diDNA_amazon
 minutemedia.com,01gya4708ddm,RESELLER #diDNA_amazon
 visiblemeasures.com,1052,RESELLER #diDNA_amazon
 onetag.com,63cef4c722237f4,DIRECT #diDNA_amazon
@@ -247,10 +247,10 @@ richaudience.com, 8ungxVGrTW, DIRECT #diDNA_richaudience
 sunmedia.tv, 12918514-294e-4e6e-8eae-c89a8fec20f5, DIRECT #diDNA_richaudience
 richaudience.com, quxufDBTNs, DIRECT #diDNA_richaudience
 richaudience.com, 06EhCbcfZK, DIRECT #diDNA_richaudience
-appnexus.com, 8233, RESELLER #diDNA_richaudience
+appnexus.com, 8233, RESELLER, f5ab79cb980f11d1 #diDNA_richaudience
 pubmatic.com, 81564, RESELLER, 5d62403b186f2ace #diDNA_richaudience
 pubmatic.com, 156538, RESELLER, 5d62403b186f2ace #diDNA_richaudience
-rubiconproject.com, 13510, DIRECT #diDNA_richaudience
+rubiconproject.com, 13510, DIRECT, 0bfd66d529a55807 #diDNA_richaudience
 
 #diDNA Aniview
 aniview.com, 5fbf84268a9b36497d036958, RESELLER, 78b21b97965ec3f8 #diDNA_aniview
@@ -285,20 +285,20 @@ adingo.jp, 28169, RESELLER #diDNA_aniview
 #diDNA EX.CO
 playbuzz.com, 0016M00002LRH4nQAH, DIRECT #diDNA_exco
 google.com, pub-9790762811057699, RESELLER, f08c47fec0942fa0 #diDNA_exco
-indexexchange.com, 189396, RESELLER #diDNA_exco
-indexexchange.com, 190719, RESELLER #diDNA_exco
+indexexchange.com, 189396, RESELLER, 50b1c356f2c5c8fc #diDNA_exco
+indexexchange.com, 190719, RESELLER, 50b1c356f2c5c8fc #diDNA_exco
 openx.com, 540847574, RESELLER, 6a698e2ec38604c6 #diDNA_exco
 pubmatic.com, 158554, RESELLER, 5d62403b186f2ace #diDNA_exco
 pubmatic.com, 158901, RESELLER, 5d62403b186f2ace #diDNA_exco
 rubiconproject.com, 17136, RESELLER, 0bfd66d529a55807 #diDNA_exco
 smartadserver.com, 3039, RESELLER, 060d053dcf45cbf3 #diDNA_exco
 lijit.com, 241560, RESELLER, fafdf38b16bf6b2b #diDNA_exco
-Yieldmo.com, 3192930039360332408, RESELLER, 6a92c77cfc3d2258 #diDNA_exco
+yieldmo.com, 3192930039360332408, RESELLER, 6a92c77cfc3d2258 #diDNA_exco
 video.unrulymedia.com, 79885747, RESELLER #diDNA_exco
 sharethrough.com, 7e2Du6FF, RESELLER, d53b998a7bd4ecd2 #diDNA_exco
 google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #diDNA_exco
 gannett.com, 22597404845, DIRECT #diDNA_exco
-appnexus.com, 12753, RESELLER #diDNA_exco
+appnexus.com, 12753, RESELLER, f5ab79cb980f11d1 #diDNA_exco
 yahoo.com, 59549, RESELLER #diDNA_exco
 improvedigital.com, 1877, RESELLER #diDNA_exco
 freewheel.tv, 1442946, RESELLER #diDNA_exco
@@ -398,7 +398,7 @@ sharethrough.com, xz7QjFBY, RESELLER, d53b998a7bd4ecd2 #diDNA_video_hb
 e-planning.net, 97ce4bb5984d4162, RESELLER, c1ba615865ed87b2 #diDNA_video_hb
 adyoulike.com, 53264963677efeda057eef7db2cb305f, RESELLER, 4ad745ead2958bf7 #diDNA_video_hb
 sonobi.com, 37fbaf262c, RESELLER, d1a215d9eb5aee9e #diDNA_video_hb
-Contextweb.com ,562963,RESELLER,89ff185a4c4e857c #diDNA_video_hb
+contextweb.com, 562963, RESELLER, 89ff185a4c4e857c #diDNA_video_hb
 
 #diDNA OneTag
 onetag.com, 63cef4c722237f4, RESELLER #diDNA_OneTag
@@ -458,9 +458,9 @@ criteo.com, B-071800, DIRECT, 9fac4a4a87c2a44f #diDNA_criteo
 themediagrid.com, MP146W, DIRECT, 35d5010d7789b49d #diDNA_criteo
 
 #diDNA AdYouLike
-adyoulike.com, f1e9cd7b291282fcad240a455fd65c12, DIRECT #diDNA_adyoulike
-appnexus.com, 7664, DIRECT #diDNA_adyoulike
-appnexus.com, 9733, RESELLER #diDNA_adyoulike
+adyoulike.com, f1e9cd7b291282fcad240a455fd65c12, DIRECT, 4ad745ead2958bf7 #diDNA_adyoulike
+appnexus.com, 7664, DIRECT, f5ab79cb980f11d1 #diDNA_adyoulike
+appnexus.com, 9733, RESELLER, f5ab79cb980f11d1 #diDNA_adyoulike
 rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807 #diDNA_adyoulike
 pubmatic.com, 160925, RESELLER, 5d62403b186f2ace #diDNA_adyoulike
 spotim.market, sp_AYL2022, RESELLER, 077e5f709d15bdbb #diDNA_adyoulike
@@ -470,7 +470,7 @@ onetag.com, 7a07370227fc000, RESELLER #diDNA_adyoulike
 #diDNA Epsilon
 conversantmedia.com, 40461, DIRECT, 03113cd04947736d #diDNA_epsilon
 admanmedia.com, 2050, RESELLER #diDNA_epsilon
-appnexus.com, 4052, RESELLER #diDNA_epsilon
+appnexus.com, 4052, RESELLER, f5ab79cb980f11d1 #diDNA_epsilon
 contextweb.com, 561998, RESELLER, 89ff185a4c4e857c #diDNA_epsilon
 lijit.com, 411121, RESELLER, fafdf38b16bf6b2b ##diDNA_epsilon
 openx.com, 540031703, RESELLER, 6a698e2ec38604c6 #diDNA_epsilon
