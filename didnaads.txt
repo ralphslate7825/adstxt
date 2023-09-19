@@ -1,4 +1,4 @@
-#diDNA ads dot txt 9/11/23
+#diDNA ads dot txt 9/19/23
 #diDNA AdX
 didna.io, 4169, RESELLER
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -19,6 +19,7 @@ yahoo.com, 55017, RESELLER, e1a5b5b6e3255540 #diDNA_onemobile_hb
 pubmatic.com, 159744, DIRECT, 5d62403b186f2ace #diDNA_pubmatic_ob
 pubmatic.com, 159745, DIRECT, 5d62403b186f2ace #diDNA_pubmatic_hb_display
 pubmatic.com, 161258, DIRECT, 5d62403b186f2ace #diDNA_pubmatic_hb_video
+pubmatic.com, 163800, DIRECT, 5d62403b186f2ace #diDNA_pubmatic_ortb
 
 #diDNA Appnexus
 appnexus.com, 8219, RESELLER, f5ab79cb980f11d1 #diDNA_appnexus
