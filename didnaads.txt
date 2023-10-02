@@ -1,4 +1,4 @@
-#diDNA ads dot txt 9/19/23
+#diDNA ads dot txt 10/2/23
 #diDNA AdX
 didna.io, 4169, RESELLER
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -128,7 +128,7 @@ admedia.com,AM1601,RESELLER #diDNA_amazon
 
 
 #diDNA Infolinks
-infolinks.com, 3289770, RESELLER #diDNA_infolinks
+infolinks.com, 3289770, DIRECT #diDNA_infolinks
 appnexus.com, 3251, RESELLER, f5ab79cb980f11d1 #diDNA_infolinks
 pubmatic.com, 156872, RESELLER, 5d62403b186f2ace #diDNA_infolinks
 sonobi.com, 0e0a64d7d3, RESELLER, d1a215d9eb5aee9e #diDNA_infolinks
@@ -136,31 +136,48 @@ sovrn.com, 268479, RESELLER, fafdf38b16bf6b2b #diDNA_infolinks
 lijit.com, 268479, RESELLER, fafdf38b16bf6b2b #diDNA_infolinks
 google.com, pub-6373315980741255, RESELLER, f08c47fec0942fa0 #diDNA_infolinks
 google.com, pub-4299156005397946, RESELLER, f08c47fec0942fa0 #diDNA_infolinks
-indexexchange.com, 191306, RESELLER, 50b1c356f2c5c8fc #diDNA_infolinks
+indexexchange.com, 191306, RESELLER, 50b1c356f2c5c8fc#diDNA_infolinks
 openx.com, 543174347, RESELLER, 6a698e2ec38604c6 #diDNA_infolinks
 yahoo.com, 58723, RESELLER #diDNA_infolinks
 pubmatic.com, 60809, RESELLER, 5d62403b186f2ace #diDNA_infolinks
-emxdgt.com, 1918, RESELLER, 1e1d41537f7cad7f #diDNA_infolinks
 xandr.com, 3251, RESELLER #diDNA_infolinks
+lijit.com, 268479-eb, RESELLER, fafdf38b16bf6b2b #diDNA_infolinks
 google.com, pub-7858377917172490, RESELLER, f08c47fec0942fa0 #diDNA_infolinks
 google.com, pub-1463455084986126, RESELLER, f08c47fec0942fa0 #diDNA_infolinks
-rhythmone.com, 2221906906, RESELLER, a670c89d4a324e47 #diDNA_infolinks
 video.unrulymedia.com, 2221906906, RESELLER #diDNA_infolinks
 criteo.com, B-059206, RESELLER, 9fac4a4a87c2a44f #diDNA_infolinks
 33across.com, 0010b00002CpYhEAAV, RESELLER, bbea06d9c4d2853c #diDNA_infolinks
-#rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807 #diDNA_infolinks
-#pubmatic.com, 156423, RESELLER, 5d62403b186f2ace #diDNA_infolinks
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807 #diDNA_infolinks
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace #diDNA_infolinks
 appnexus.com, 10239, RESELLER, f5ab79cb980f11d1 #diDNA_infolinks
 openx.com, 537120563, RESELLER, 6a698e2ec38604c6 #diDNA_infolinks
 yahoo.com, 57289, RESELLER, e1a5b5b6e3255540 #diDNA_infolinks
-###appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #diDNA_infolinks
+yahoo.com, 58905, RESELLER, e1a5b5b6e3255540 #diDNA_infolinks
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807 #diDNA_infolinks
 onetag.com, 598ce3ddaee8c90, RESELLER #diDNA_infolinks
-e-planning.net, 901a809a65f984a4, RESELLER, c1ba615865ed87b2 #diDNA_infolinks
 improvedigital.com, 2016, RESELLER #diDNA_infolinks
-rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807 #diDNA_infolinks
 themediagrid.com, V19ZSB, RESELLER, 35d5010d7789b49d #diDNA_infolinks
-zeta.com, 861, RESELLER #diDNA_infolinks
+zetaglobal.net, 533, RESELLER #diDNA_infolinks
+disqus.com, 533, RESELLER #diDNA_infolinks
+sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2 #diDNA_infolinks
+aps.amazon.com, de948cab-9232-4f2a-90f5-794be75952c6, RESELLER #diDNA_infolinks
+media.net, 8CUY6IX4H, RESELLER #diDNA_infolinks
+smartadserver.com, 3238, RESELLER, 060d053dcf45cbf3 #diDNA_infolinks
+sharethrough.com, 5pFlvV45, RESELLER, d53b998a7bd4ecd2 #diDNA_infolinks
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807 #diDNA_infolinks
+mgid.com, 43615, RESELLER, d4c29acad76ce94f #diDNA_infolinks
+rubiconproject.com, 9655, RESELLER, 0bfd66d529a55807 #diDNA_infolinks
+amitydigital.io, 493, RESELLER #diDNA_infolinks
+152media.info, 152M658, RESELLER #diDNA_infolinks
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1 #diDNA_infolinks
+gamoshi.io, 267-b5549, RESELLER, 20e30b2ae1f670f2 #diDNA_infolinks
+qortex.ai, 194667, RESELLER #diDNA_infolinks
+rubiconproject.com, 24138, RESELLER, 0bfd66d529a55807 #diDNA_infolinks
+yieldmo.com, 3117806966060032819, RESELLER #diDNA_infolinks
+freewheel.tv, 1598755, RESELLER #diDNA_infolinks
+freewheel.tv, 1598756, RESELLER #diDNA_infolinks
+imds.tv, 82583, RESELLER, ae6c32151e71f19d #diDNA_infolinks
+axonix.com, 59081, RESELLER, bc385f2b4a87b721 #diDNA_infolinks
 
 #diDNA Media.net
 media.net, 8CU1MXMOP, DIRECT #diDNA_medianet_ob
