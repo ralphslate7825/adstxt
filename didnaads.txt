@@ -37,11 +37,16 @@ rubiconproject.com, 20102, RESELLER, 0bfd66d529a55807 #diDNA_rubicon_ob
 sovrn.com, 236010, RESELLER, fafdf38b16bf6b2b #diDNA_sovrn_hb
 lijit.com, 236010, RESELLER, fafdf38b16bf6b2b #diDNA_sovrn
 lijit.com, 236010-eb, RESELLER, fafdf38b16bf6b2b #diDNA_sovrn_ob
+lijit.com, 480899, DIRECT, fafdf38b16bf6b2b #diDNA_sovrn_ortb
+lijit.com, 480899-eb, DIRECT, fafdf38b16bf6b2b #diDNA_sovrn_ortb
 openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #diDNA_sovrn
 openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #diDNA_sovrn
 pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #diDNA_sovrn
 pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #diDNA_sovrn
 rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #diDNA_sovrn
+appnexus.com, 1019, RESELLER, f5ab79cb980f11d1 #diDNA_sovrn
+video.unrulymedia.com, 2444764291, RESELLER #diDNA_sovrn
+contextweb.com, 558511, RESELLER #diDNA_sovrn
 
 #diDNA Sharethrough 
 sharethrough.com, 3232726a, RESELLER, d53b998a7bd4ecd2 #diDNA_sharethrough_hb
