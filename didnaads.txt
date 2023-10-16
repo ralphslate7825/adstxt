@@ -1,4 +1,4 @@
-#diDNA ads dot txt 10/11/23
+#diDNA ads dot txt 10/16/23
 #diDNA AdX
 didna.io, 4169, RESELLER
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -350,30 +350,6 @@ smartadserver.com, 3713, RESELLER #diDNA_adtelligent
 yahoo.com, 59674, RESELLER #diDNA_adtelligent
 media.net, 8CU816538, RESELLER #diDNA_adtelligent
 appnexus.com, 13701, RESELLER, f5ab79cb980f11d1 #diDNA_adtelligent
-
-#diDNA Reset Digital
-resetdigital.co, 113, RESELLER #diDNA_resetdigital_hb
-appnexus.com, 13890, RESELLER, f5ab79cb980f11d1 #diDNA_resetdigital
-sovrn.com, 399484, RESELLER, fafdf38b16bf6b2b #diDNA_resetdigital
-lijit.com, 399484, RESELLER, fafdf38b16bf6b2b #diDNA_resetdigital
-openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #diDNA_resetdigital
-openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #diDNA_resetdigital
-pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #diDNA_resetdigital
-pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #diDNA_resetdigital
-rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #diDNA_resetdigital
-pubmatic.com, 159668, RESELLER, 5d62403b186f2ace #diDNA_resetdigital
-opera.com, pub5449961587776, RESELLER, 55a0c5fd61378de3 #diDNA_resetdigital
-adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176 #diDNA_resetdigital
-e-planning.net, ef8dc1dee54baf18, RESELLER, c1ba615865ed87b2 #diDNA_resetdigital
-meitu.com, 654, RESELLER #diDNA_resetdigital
-gamoshi.io, 267-b4800, RESELLER, 20e30b2ae1f670f2 #diDNA_resetdigital
-emxdgt.com, 2047, RESELLER, 1e1d41537f7cad7f #diDNA_resetdigital
-appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #diDNA_resetdigital
-rhythmone.com, 3880497124, RESELLER, a670c89d4a324e47 #diDNA_resetdigital
-video.unrulymedia.com, 3880497124, RESELLER #diDNA_resetdigital
-sovrn.com, 273644, RESELLER, fafdf38b16bf6b2b #diDNA_resetdigital
-lijit.com, 273644, RESELLER, fafdf38b16bf6b2b #diDNA_resetdigital
-onetag.com, 5d1628750185ace, RESELLER #diDNA_resetdigital
 
 #diDNA GumGum
 gumgum.com,13621,DIRECT,ffdef49475d318a9 #diDNA_gumgum
