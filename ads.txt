@@ -80,7 +80,8 @@ contextweb.com, 558511, RESELLER, 89ff185a4c4e857c #diDNA_sovrn
 #diDNA Sharethrough 
 sharethrough.com, 3232726a, RESELLER, d53b998a7bd4ecd2 #diDNA_sharethrough_hb
 sharethrough.com, 6KW1z7oe, RESELLER, d53b998a7bd4ecd2 #diDNA_sharethrough_ob
-sharethrough.com, ScFLmJP7, RESELLER, d53b998a7bd4ecd2 #diDNA_sharethrough_ortb
+sharethrough.com, ScFLmJP7, RESELLER, d53b998a7bd4ecd2 #diDNA_sharethrough_ortb_a
+sharethrough.com, vQPyRXGt, RESELLER, d53b998a7bd4ecd2 #diDNA_sharethrough_ortb
 pubmatic.com, 156557, RESELLER, 5d62403b186f2ace #diDNA_sharethrough
 pubmatic.com, 158723, RESELLER, 5d62403b186f2ace #diDNA_sharethrough
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807 #diDNA_sharethrough
