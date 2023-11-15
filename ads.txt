@@ -27,7 +27,7 @@ OWNERDOMAIN=hockeydb.com
 MANAGERDOMAIN=didna.io
 
 # End Hockeydb
-#diDNA ads dot txt 11/9/23
+#diDNA ads dot txt 11/15/23
 #diDNA AdX
 didna.io, 4169, RESELLER
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -399,32 +399,28 @@ revcontent.com,110029,RESELLER #diDNA_gumgum
 google.com,pub-3848273848634341,RESELLER,f08c47fec0942fa0 #diDNA_gumgum
 
 #diDNA MinuteMedia
-minutemedia.com, 01g7qagjtx2p, RESELLER #diDNA_video_hb
-pubmatic.com, 161683, RESELLER, 5d62403b186f2ace #diDNA_video_hb
-appnexus.com, 8381, RESELLER, f5ab79cb980f11d1 #diDNA_video_hb
-triplelift.com, 6030, RESELLER, 6c33edb13117fd86 #diDNA_video_hb
-33across.com, 0013300001jlr99AAA, RESELLER, bbea06d9c4d2853c #diDNA_video_hb
-openx.com, 540780517, RESELLER, 6a698e2ec38604c6 #diDNA_video_hb
-yahoo.com, 59407, RESELLER, e1a5b5b6e3255540 #diDNA_video_hb
-indexexchange.com, 196326, RESELLER, 50b1c356f2c5c8fc #diDNA_video_hb
-synacor.com, 82302, RESELLER, e108f11b2cdf7d5b #diDNA_video_hb
-imds.tv, 82302, RESELLER, ae6c32151e71f19d #diDNA_video_hb
-rubiconproject.com, 17598, RESELLER, 0bfd66d529a55807 #diDNA_video_hb
-rhythmone.com, 699546687, RESELLER, a670c89d4a324e47 #diDNA_video_hb
-video.unrulymedia.com, 699546687, RESELLER #diDNA_video_hb
-sovrn.com, 264726, RESELLER, fafdf38b16bf6b2b #diDNA_video_hb
-yieldmo.com, 2240559316355155321, RESELLER #diDNA_video_hb
-admanmedia.com, 953, RESELLER #diDNA_video_hb
-onetag.com, 765b4e6bb9c8438, RESELLER #diDNA_video_hb
-beachfront.com, 14779, RESELLER, e2541279e8e2ca4d #diDNA_video_hb
-improvedigital.com, 2073, RESELLER #diDNA_video_hb
-smartadserver.com, 4106, RESELLER, 060d053dcf45cbf3 #diDNA_video_hb
-krushmedia.com, AJxF6R470a9M6CaTvK, RESELLER #diDNA_video_hb
-sharethrough.com, xz7QjFBY, RESELLER, d53b998a7bd4ecd2 #diDNA_video_hb
-e-planning.net, 97ce4bb5984d4162, RESELLER, c1ba615865ed87b2 #diDNA_video_hb
-adyoulike.com, 53264963677efeda057eef7db2cb305f, RESELLER, 4ad745ead2958bf7 #diDNA_video_hb
-sonobi.com, 37fbaf262c, RESELLER, d1a215d9eb5aee9e #diDNA_video_hb
-contextweb.com, 562963, RESELLER, 89ff185a4c4e857c #diDNA_video_hb
+minutemedia.com, 01g7qagjtx2p, RESELLER #diDNA_minutemedia
+pubmatic.com, 161683, RESELLER, 5d62403b186f2ace #diDNA_minutemedia
+appnexus.com, 8381, RESELLER, f5ab79cb980f11d1 #diDNA_minutemedia
+sonobi.com, 37fbaf262c, RESELLER, d1a215d9eb5aee9e #diDNA_minutemedia
+rubiconproject.com, 17598, RESELLER, 0bfd66d529a55807 #diDNA_minutemedia
+sharethrough.com, xz7QjFBY, RESELLER, d53b998a7bd4ecd2 #diDNA_minutemedia
+video.unrulymedia.com, 699546687, RESELLER #diDNA_minutemedia
+33across.com, 0013300001jlr99AAA, RESELLER, bbea06d9c4d2853c #diDNA_minutemedia
+lijit.com, 264726, RESELLER, fafdf38b16bf6b2b #diDNA_minutemedia
+onetag.com, 765b4e6bb9c8438, RESELLER #diDNA_minutemedia
+amxrtb.com, 105199663, RESELLER #diDNA_minutemedia
+yieldmo.com, 2954622693783052507, RESELLER #diDNA_minutemedia
+loopme.com, 11556, RESELLER, 6c8d5f95897a5a3b #diDNA_minutemedia
+contextweb.com, 562963, RESELLER, 89ff185a4c4e857c #diDNA_minutemedia
+zeta.com, 591, RESELLER #diDNA_minutemedia
+disqus.com, 591, RESELLER #diDNA_minutemedia
+admanmedia.com, 953, RESELLER #diDNA_minutemedia
+smartadserver.com, 4106, RESELLER, 060d053dcf45cbf3 #diDNA_minutemedia
+imds.tv, 82302, RESELLER, ae6c32151e71f19d #diDNA_minutemedia
+improvedigital.com, 2073, RESELLER #diDNA_minutemedia
+betweendigital.com, 44808, RESELLER #diDNA_minutemedia
+adyoulike.com, 53264963677efeda057eef7db2cb305f, RESELLER, 4ad745ead2958bf7 #diDNA_minutemedia
 
 #diDNA OneTag
 onetag.com, 63cef4c722237f4, DIRECT #diDNA_OneTag
