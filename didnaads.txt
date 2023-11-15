@@ -143,7 +143,7 @@ sovrn.com, 268479, RESELLER, fafdf38b16bf6b2b #diDNA_infolinks
 lijit.com, 268479, RESELLER, fafdf38b16bf6b2b #diDNA_infolinks
 google.com, pub-6373315980741255, RESELLER, f08c47fec0942fa0 #diDNA_infolinks
 google.com, pub-4299156005397946, RESELLER, f08c47fec0942fa0 #diDNA_infolinks
-indexexchange.com, 191306, RESELLER, 50b1c356f2c5c8fc#diDNA_infolinks
+indexexchange.com, 191306, RESELLER, 50b1c356f2c5c8fc #diDNA_infolinks
 openx.com, 543174347, RESELLER, 6a698e2ec38604c6 #diDNA_infolinks
 yahoo.com, 58723, RESELLER #diDNA_infolinks
 pubmatic.com, 60809, RESELLER, 5d62403b186f2ace #diDNA_infolinks
@@ -166,11 +166,12 @@ improvedigital.com, 2016, RESELLER #diDNA_infolinks
 themediagrid.com, V19ZSB, RESELLER, 35d5010d7789b49d #diDNA_infolinks
 zetaglobal.net, 533, RESELLER #diDNA_infolinks
 disqus.com, 533, RESELLER #diDNA_infolinks
-sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2 #diDNA_infolinks
+sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2
 aps.amazon.com, de948cab-9232-4f2a-90f5-794be75952c6, RESELLER #diDNA_infolinks
 media.net, 8CUY6IX4H, RESELLER #diDNA_infolinks
 smartadserver.com, 3238, RESELLER, 060d053dcf45cbf3 #diDNA_infolinks
 sharethrough.com, 5pFlvV45, RESELLER, d53b998a7bd4ecd2 #diDNA_infolinks
+sharethrough.com, 1SghQadK, RESELLER, d53b998a7bd4ecd2 #diDNA_infolinks
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807 #diDNA_infolinks
 mgid.com, 43615, RESELLER, d4c29acad76ce94f #diDNA_infolinks
 rubiconproject.com, 9655, RESELLER, 0bfd66d529a55807 #diDNA_infolinks
@@ -185,6 +186,9 @@ freewheel.tv, 1598755, RESELLER #diDNA_infolinks
 freewheel.tv, 1598756, RESELLER #diDNA_infolinks
 imds.tv, 82583, RESELLER, ae6c32151e71f19d #diDNA_infolinks
 axonix.com, 59081, RESELLER, bc385f2b4a87b721 #diDNA_infolinks
+emxdgt.com, 1918, RESELLER, 1e1d41537f7cad7f #diDNA_infolinks
+conversantmedia.com, 100316, RESELLER, 03113cd04947736d #diDNA_infolinks
+orangeclickmedia.com, C-1100, RESELLER #diDNA_infolinks
 
 #diDNA Media.net
 media.net, 8CU1MXMOP, DIRECT #diDNA_medianet_ob
