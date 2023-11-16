@@ -1,4 +1,4 @@
-#diDNA ads dot txt 11/15/23
+#diDNA ads dot txt 11/16/23
 #diDNA AdX
 didna.io, 4169, RESELLER
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -467,22 +467,22 @@ lijit.com, 408376, RESELLER, fafdf38b16bf6b2b #diDNA_adyoulike
 onetag.com, 7a07370227fc000, RESELLER #diDNA_adyoulike
 
 #diDNA Vidazoo
-vidazoo.com, 64ee0363fd0942fca4082d50, DIRECT, b6ada874b4d7d0b2
-yahoo.com, 59040, RESELLER, e1a5b5b6e3255540
-rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
-supply.colossusssp.com, 181, RESELLER, 6c5b49d96ec1b458
-undertone.com, 4151, RESELLER
-undertone.com, 3934, RESELLER
-themediagrid.com, 3AW9JB, RESELLER, 35d5010d7789b49d
-lijit.com, 222372, RESELLER, fafdf38b16bf6b2b
-openx.com, 541017750, RESELLER, 6a698e2ec38604c6
-video.unrulymedia.com, 2743945877, RESELLER
-sonobi.com, e32c07f4ba, RESELLER, d1a215d9eb5aee9e
-media.net, 8CUN4Y5Y3, RESELLER
-sharethrough.com, 0c3ba0a3, RESELLER, d53b998a7bd4ecd2
-freewheel.tv, 625393, RESELLER
-adform.com, 2643, RESELLER, 9f5210a2f0999e32
-sharethrough.com, S2rESyUH, RESELLER, d53b998a7bd4ecd2
+vidazoo.com, 64ee0363fd0942fca4082d50, DIRECT, b6ada874b4d7d0b2 #diDNA_vidazoo
+yahoo.com, 59040, RESELLER, e1a5b5b6e3255540 #diDNA_vidazoo
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 #diDNA_vidazoo
+supply.colossusssp.com, 181, RESELLER, 6c5b49d96ec1b458 #diDNA_vidazoo
+undertone.com, 4151, RESELLER #diDNA_vidazoo
+undertone.com, 3934, RESELLER #diDNA_vidazoo
+themediagrid.com, 3AW9JB, RESELLER, 35d5010d7789b49d #diDNA_vidazoo
+lijit.com, 222372, RESELLER, fafdf38b16bf6b2b #diDNA_vidazoo
+openx.com, 541017750, RESELLER, 6a698e2ec38604c6 #diDNA_vidazoo
+video.unrulymedia.com, 2743945877, RESELLER #diDNA_vidazoo
+sonobi.com, e32c07f4ba, RESELLER, d1a215d9eb5aee9e #diDNA_vidazoo
+media.net, 8CUN4Y5Y3, RESELLER #diDNA_vidazoo
+sharethrough.com, 0c3ba0a3, RESELLER, d53b998a7bd4ecd2 #diDNA_vidazoo
+freewheel.tv, 625393, RESELLER #diDNA_vidazoo
+adform.com, 2643, RESELLER, 9f5210a2f0999e32 #diDNA_vidazoo
+sharethrough.com, S2rESyUH, RESELLER, d53b998a7bd4ecd2 #diDNA_vidazoo
 
 #diDNA Epsilon
 conversantmedia.com, 40461, DIRECT, 03113cd04947736d #diDNA_epsilon
@@ -517,51 +517,54 @@ freewheel.tv, 1590606, RESELLER #diDNA_rise
 themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d #diDNA_rise
 
 #diDNA Brightcom
-brightcom.com, 20131, DIRECT
-onlinemediasolutions.com,20131, DIRECT
-onetag.com, 75753f1ebcc343c, RESELLER
-rubiconproject.com, 20416, RESELLER, 0bfd66d529a55807
-onomagic.com, 201311, DIRECT
-sovrn.com, 374814, RESELLER, fafdf38b16bf6b2b
-lijit.com, 374814, RESELLER, fafdf38b16bf6b2b
-lijit.com, 374814-eb, RESELLER, fafdf38b16bf6b2b
-pubmatic.com, 161332, RESELLER, 5d62403b186f2ace
-appnexus.com, 11801, RESELLER, f5ab79cb980f11d1
-amxrtb.com, 105199514, RESELLER
-openx.com, 537153209, RESELLER, 6a698e2ec38604c6
-rubiconproject.com, 24364, RESELLER, 0bfd66d529a55807
-getmediamx.com, 1220131, DIRECT
-appnexus.com, 12366, RESELLER, f5ab79cb980f11d1
-indexexchange.com, 197494, RESELLER, 50b1c356f2c5c8fc
-audienciad.com, 201312, DIRECT
-sonobi.com, 3aed893727, RESELLER, d1a215d9eb5aee9e
-onetag.com, 7b561459c997848, RESELLER
-pubmatic.com, 163517, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 25722, RESELLER, 0bfd66d529a55807
-smartadserver.com, 4253, RESELLER
-smartadserver.com, 4483, RESELLER
-limpid.tv, 920131, DIRECT
-loopme.com, 11228, RESELLER, 6c8d5f95897a5a3b
-advibe.media, 820131, DIRECT
-sharethrough.com, r4ScMSsf, RESELLER
+brightcom.com, 20131, DIRECT #diDNA_brightcom_HB
+brightcom.com, 20900, DIRECT #diDNA_brightcom_ortb
+onlinemediasolutions.com,20131, DIRECT #diDNA_brightcom_HB
+onetag.com, 75753f1ebcc343c, RESELLER #diDNA_brightcom
+rubiconproject.com, 20416, RESELLER, 0bfd66d529a55807 #diDNA_brightcom
+onomagic.com, 201311, DIRECT #diDNA_brightcom
+sovrn.com, 374814, RESELLER, fafdf38b16bf6b2b #diDNA_brightcom
+lijit.com, 374814, RESELLER, fafdf38b16bf6b2b #diDNA_brightcom
+lijit.com, 374814-eb, RESELLER, fafdf38b16bf6b2b #diDNA_brightcom
+pubmatic.com, 161332, RESELLER, 5d62403b186f2ace #diDNA_brightcom
+appnexus.com, 11801, RESELLER, f5ab79cb980f11d1 #diDNA_brightcom
+amxrtb.com, 105199514, RESELLER #diDNA_brightcom
+openx.com, 537153209, RESELLER, 6a698e2ec38604c6 #diDNA_brightcom
+rubiconproject.com, 24364, RESELLER, 0bfd66d529a55807 #diDNA_brightcom
+getmediamx.com, 1220131, DIRECT #diDNA_brightcom
+appnexus.com, 12366, RESELLER, f5ab79cb980f11d1 #diDNA_brightcom
+indexexchange.com, 197494, RESELLER, 50b1c356f2c5c8fc #diDNA_brightcom
+audienciad.com, 201312, DIRECT #diDNA_brightcom
+sonobi.com, 3aed893727, RESELLER, d1a215d9eb5aee9e #diDNA_brightcom
+onetag.com, 7b561459c997848, RESELLER #diDNA_brightcom
+pubmatic.com, 163517, RESELLER, 5d62403b186f2ace #diDNA_brightcom
+rubiconproject.com, 25722, RESELLER, 0bfd66d529a55807 #diDNA_brightcom
+smartadserver.com, 4253, RESELLER #diDNA_brightcom
+smartadserver.com, 4483, RESELLER #diDNA_brightcom
+limpid.tv, 920131, DIRECT #diDNA_brightcom
+loopme.com, 11228, RESELLER, 6c8d5f95897a5a3b #diDNA_brightcom
+advibe.media, 820131, DIRECT #diDNA_brightcom
+sharethrough.com, r4ScMSsf, RESELLER #diDNA_brightcom
+onlinemediasolutions.com, 20900, DIRECT #diDNA_brightcom_ortb
+onomagic.com, 209001, DIRECT #diDNA_brightcom_ortb
 
 #diDNA Kueez
-kueez.com,47dddf0cd264011878c0f76b8d4a5362, DIRECT
-kueez.com,5b1478072411bdab85f7aa36d26ec65c, DIRECT
-themediagrid.com, UOT45Z, RESELLER, 35d5010d7789b49d
-rubiconproject.com, 16920, RESELLER, 0bfd66d529a55807
-openx.com, 557564833, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 162110, RESELLER, 5d62403b186f2ace
-lijit.com, 407406, RESELLER, fafdf38b16bf6b2b #SOVRN
-sharethrough.com, n98xDzeL, RESELLER, d53b998a7bd4ecd2
-sonobi.com, 4c4fba1717, RESELLER, d1a215d9eb5aee9e
-appnexus.com, 8826,RESELLER, f5ab79cb980f11d1
-disqus.com, 108, RESELLER
-media.net,8CU4JTRF9, RESELLER
-onetag.com,6e053d779444c00, RESELLER
-yieldmo.com, 3133660606033240149, RESELLER
-33across.com, 0010b00002ODU4HAAX, RESELLER, bbea06d9c4d2853c
-video.unrulymedia.com, 3486482593, RESELLER
+kueez.com,47dddf0cd264011878c0f76b8d4a5362, DIRECT #diDNA_kueez
+kueez.com,5b1478072411bdab85f7aa36d26ec65c, DIRECT #diDNA_kueez
+themediagrid.com, UOT45Z, RESELLER, 35d5010d7789b49d #diDNA_kueez
+rubiconproject.com, 16920, RESELLER, 0bfd66d529a55807 #diDNA_kueez
+openx.com, 557564833, RESELLER, 6a698e2ec38604c6 #diDNA_kueez
+pubmatic.com, 162110, RESELLER, 5d62403b186f2ace #diDNA_kueez
+lijit.com, 407406, RESELLER, fafdf38b16bf6b2b #diDNA_kueez
+sharethrough.com, n98xDzeL, RESELLER, d53b998a7bd4ecd2 #diDNA_kueez
+sonobi.com, 4c4fba1717, RESELLER, d1a215d9eb5aee9e #diDNA_kueez
+appnexus.com, 8826,RESELLER, f5ab79cb980f11d1 #diDNA_kueez
+disqus.com, 108, RESELLER #diDNA_kueez
+media.net,8CU4JTRF9, RESELLER #diDNA_kueez
+onetag.com,6e053d779444c00, RESELLER #diDNA_kueez
+yieldmo.com, 3133660606033240149, RESELLER #diDNA_kueez
+33across.com, 0010b00002ODU4HAAX, RESELLER, bbea06d9c4d2853c #diDNA_kueez
+video.unrulymedia.com, 3486482593, RESELLER #diDNA_kueez
 
 #contact diDNA
 MANAGERDOMAIN=didna.io
