@@ -27,7 +27,7 @@ OWNERDOMAIN=hockeydb.com
 MANAGERDOMAIN=didna.io
 
 # End Hockeydb
-#diDNA ads dot txt 11/16/23
+#diDNA ads dot txt 11/28/23
 #diDNA AdX
 didna.io, 4169, RESELLER
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -594,6 +594,18 @@ onetag.com,6e053d779444c00, RESELLER #diDNA_kueez
 yieldmo.com, 3133660606033240149, RESELLER #diDNA_kueez
 33across.com, 0010b00002ODU4HAAX, RESELLER, bbea06d9c4d2853c #diDNA_kueez
 video.unrulymedia.com, 3486482593, RESELLER #diDNA_kueez
+
+#diDNA SmileWanted
+smilewanted.com, 4246, RESELLER #diDNA_smilewanted
+pubmatic.com, 158810, RESELLER, 5d62403b186f2ace #diDNA_smilewanted
+smartadserver.com, 2491, RESELLER #diDNA_smilewanted
+rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807 #diDNA_smilewanted
+appnexus.com, 10040, RESELLER, f5ab79cb980f11d1 #diDNA_smilewanted
+improvedigital.com, 1010, RESELLER #diDNA_smilewanted
+openx.com, 557083110, RESELLER, 6a698e2ec38604c6 #diDNA_smilewanted
+sharethrough.com, TZ1ahFV8, RESELLER, d53b998a7bd4ecd2 #diDNA_smilewanted
+lijit.com, 346012-eb, DIRECT, fafdf38b16bf6b2b #diDNA_smilewanted
+adform.com, 3027, RESELLER #diDNA_smilewanted
 
 #contact diDNA
 MANAGERDOMAIN=didna.io
