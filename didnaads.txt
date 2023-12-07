@@ -1,4 +1,4 @@
-#diDNA ads dot txt 12/5/23
+#diDNA ads dot txt 12/7/23
 #diDNA AdX
 didna.io, 4169, RESELLER
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -634,6 +634,25 @@ openx.com, 557083110, RESELLER, 6a698e2ec38604c6 #diDNA_smilewanted
 sharethrough.com, TZ1ahFV8, RESELLER, d53b998a7bd4ecd2 #diDNA_smilewanted
 lijit.com, 346012-eb, DIRECT, fafdf38b16bf6b2b #diDNA_smilewanted
 adform.com, 3027, RESELLER #diDNA_smilewanted
+
+#diDNA Adipolo
+adipolo.com, 22611285429, RESELLER #diDNA_adipolo
+adipolosolutions.com, 22611285429, RESELLER #diDNA_adipolo
+pmbmonetize.com, 22611285429, RESELLER #diDNA_adipolo
+smartadline.com, 22934895009, DIRECT #diDNA_adipolo
+opamarketplace.com, 22934895009, DIRECT #diDNA_adipolo
+google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0 #diDNA_adipolo-Opa
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0 #diDNA_adipolo-GreeterAPL
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0 #diDNA_adipolo-APL
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0 #diDNA_adipolo-Positive
+google.com, pub-5862389829718358, RESELLER, f08c47fec0942fa0 #diDNA_adipolo
+google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0 #diDNA_adipolo
+adipolo.com, 22934895009, DIRECT #diDNA_adipolo
+adipolosolutions.com, 22934895009, DIRECT #diDNA_adipolo
+pmbmonetize.com, 22934895009, DIRECT #diDNA_adipolo
+selectmedia.asia, 22703897216, RESELLER #diDNA_adipolo
+onetag.com, 61d88450bdb25bc-OB, DIRECT #diDNA_adipolo
+
 
 #contact diDNA
 MANAGERDOMAIN=didna.io
