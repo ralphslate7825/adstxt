@@ -1,4 +1,4 @@
-#diDNA ads dot txt 12/8/23
+#diDNA ads dot txt 12/14/23
 #diDNA AdX
 didna.io, 4169, RESELLER
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -554,6 +554,8 @@ limpid.tv, 920131, DIRECT #diDNA_brightcom
 loopme.com, 11228, RESELLER, 6c8d5f95897a5a3b #diDNA_brightcom
 advibe.media, 820131, DIRECT #diDNA_brightcom
 sharethrough.com, r4ScMSsf, RESELLER #diDNA_brightcom
+media.net, 8CUB46Z7R, RESELLER #diDNA_brightcom
+yieldmo.com, 2757543169808605705, RESELLER #diDNA_brightcom
 onlinemediasolutions.com, 20900, DIRECT #diDNA_brightcom_ortb
 onomagic.com, 209001, DIRECT #diDNA_brightcom_ortb
 
