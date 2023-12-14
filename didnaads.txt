@@ -133,7 +133,6 @@ minutemedia.com,01g7qagjtx2p,DIRECT #diDNA_amazon
 undertone.com,4205,RESELLER,d954590d0cb265b9 #diDNA_amazon
 admedia.com,AM1601,RESELLER #diDNA_amazon
 
-
 #diDNA Infolinks
 infolinks.com, 3289770, DIRECT #diDNA_infolinks
 appnexus.com, 3251, RESELLER, f5ab79cb980f11d1 #diDNA_infolinks
@@ -189,6 +188,11 @@ axonix.com, 59081, RESELLER, bc385f2b4a87b721 #diDNA_infolinks
 emxdgt.com, 1918, RESELLER, 1e1d41537f7cad7f #diDNA_infolinks
 conversantmedia.com, 100316, RESELLER, 03113cd04947736d #diDNA_infolinks
 orangeclickmedia.com, C-1100, RESELLER #diDNA_infolinks
+pubmatic.com, 60809, RESELLER, 5d62403b186f2ace #diDNA_infolinks
+supply.colossusssp.com, 410, RESELLER #diDNA_infolinks
+freewheel.tv, 1602928, RESELLER #diDNA_infolinks
+freewheel.tv, 1602929, RESELLER #diDNA_infolinks
+amxrtb.com, 105199704, RESELLER #diDNA_infolinks
 
 #diDNA Media.net
 media.net, 8CU1MXMOP, DIRECT #diDNA_medianet_ob
