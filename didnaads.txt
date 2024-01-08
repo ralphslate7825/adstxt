@@ -1,4 +1,4 @@
-#diDNA ads dot txt 12/14/23
+#diDNA ads dot txt 1/8/24
 #diDNA AdX
 didna.io, 4169, RESELLER
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
@@ -132,6 +132,7 @@ onetag.com,63cef4c722237f4,DIRECT #diDNA_amazon
 minutemedia.com,01g7qagjtx2p,DIRECT #diDNA_amazon
 undertone.com,4205,RESELLER,d954590d0cb265b9 #diDNA_amazon
 admedia.com,AM1601,RESELLER #diDNA_amazon
+kargo.com,8824,RESELLER #diDNA_amazon
 
 #diDNA Infolinks
 infolinks.com, 3289770, DIRECT #diDNA_infolinks
