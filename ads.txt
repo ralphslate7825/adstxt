@@ -27,9 +27,11 @@ OWNERDOMAIN=hockeydb.com
 MANAGERDOMAIN=didna.io
 
 # End Hockeydb
+MANAGERDOMAIN=didna.io
+
+
 #diDNA ads dot txt 1/17/24
 #diDNA AdX
-didna.io, 4169, RESELLER
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
 
@@ -764,6 +766,5 @@ onetag.com, 61d88450bdb25bc-OB, DIRECT #diDNA_adipolo
 
 
 #contact diDNA
-MANAGERDOMAIN=didna.io
 contact=ops@diDNA.io
 contact=http://diDNA.io/contact/
