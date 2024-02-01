@@ -1,8 +1,8 @@
 #google
 google.com, pub-8272786997612568, DIRECT, f08c47fec0942fa0
 google.com, pub-9736035700028739, DIRECT, f08c47fec0942fa0
-google.com, pub-5785109049760583, DIRECT, f08c47fec0942fa0
-google.com, pub-4316371025019572, DIRECT, f08c47fec0942fa0
+google.com, pub-5785109049760583, DIRECT, f08c47fec0942fa0 #Hockeydb AdSense
+google.com, pub-4316371025019572, DIRECT, f08c47fec0942fa0 #Hockeydb AdX
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0
 
 google.com, pub-3605257360853185, RESELLER, f08c47fec0942fa0
