@@ -31,7 +31,7 @@ MANAGERDOMAIN=didna.io
 MANAGERDOMAIN=didna.io
 
 
-#diDNA ads dot txt 2/1/24
+#diDNA ads dot txt 2/20/24
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -659,6 +659,7 @@ media.net, 8CUB46Z7R, RESELLER #diDNA_brightcom
 yieldmo.com, 2757543169808605705, RESELLER #diDNA_brightcom
 onlinemediasolutions.com, 20900, DIRECT #diDNA_brightcom_ortb
 onomagic.com, 209001, DIRECT #diDNA_brightcom_ortb
+loopme.com, 12733, RESELLER, 6c8d5f95897a5a3b #diDNA_brightcom_hb_ortb
 
 #diDNA Kueez
 kueez.com,47dddf0cd264011878c0f76b8d4a5362, DIRECT #diDNA_kueez
