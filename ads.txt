@@ -593,6 +593,7 @@ sharethrough.com, 0c3ba0a3, RESELLER, d53b998a7bd4ecd2 #diDNA_vidazoo
 freewheel.tv, 625393, RESELLER #diDNA_vidazoo
 adform.com, 2643, RESELLER, 9f5210a2f0999e32 #diDNA_vidazoo
 sharethrough.com, S2rESyUH, RESELLER, d53b998a7bd4ecd2 #diDNA_vidazoo
+appnexus.com, 2794, RESELLER, f5ab79cb980f11d1 #diDNA_vidazoo
 
 #diDNA Epsilon
 conversantmedia.com, 40461, DIRECT, 03113cd04947736d #diDNA_epsilon
