@@ -1,7 +1,7 @@
 MANAGERDOMAIN=didna.io
 
 
-#diDNA ads dot txt 2/20/24
+#diDNA ads dot txt 2/23/24
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
