@@ -24,6 +24,51 @@ google.com, pub-2051007210431666, RESELLER, f08c47fec0942fa0
 #didna
 didna.io, 494n1p15, DIRECT
 
+optimanetwork.com, 10382, DIRECT
+pubmatic.com, 163370, DIRECT, 5d62403b186f2ace
+google.com, pub-4586415728471297, DIRECT, f08c47fec0942fa0
+google.com, pub-8863191426564274, RESELLER, f08c47fec0942fa0
+openx.com, 557904194, RESELLER, 6a698e2ec38604c6
+criteo.com, B-068838, DIRECT, 9fac4a4a87c2a44f
+themediagrid.com, Q6VXLE, DIRECT, 35d5010d7789b49d
+readwhere.digital, rd891fiofzktecyodvubtsyqhutsincexqe63e23569bf264, DIRECT
+rwadx.com, rw977gpobmmvyzkafzpcmlnltnlnloklkxu63e22fbe6eb32, DIRECT
+aps.amazon.com, 5d8ed25e-57cc-441a-b62a-127b34faae4e, DIRECT
+rubiconproject.com, 24872, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 24874, DIRECT, 0bfd66d529a55807
+pubmatic.com, 159727, RESELLER, 5d62403b186f2ace
+criteo.com, B-060927, DIRECT, 9fac4a4a87c2a44f
+themediagrid.com, TR634Q, DIRECT, 35d5010d7789b49d
+e-planning.net,2dc7f47b1dc81e28,DIRECT,c1ba615865ed87b2
+appnexus.com, 15941, RESELLER
+onetag.com, 5927d926323dc2c, RESELLER
+Adsolut.in, 16761, DIRECT
+playstream.media, 1891, DIRECT
+vdo.ai, 2213_3552, DIRECT
+atlas5.co, 2213_3552, DIRECT
+walletcircle.co, 2213, DIRECT
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
+google.com, pub-2403018226404213, RESELLER, f08c47fec0942fa0
+unibots.in, UBC-0165-1, DIRECT
+google.com, pub-2730263451308801, RESELLER, f08c47fec0942fa0
+google.com, pub-5200956238394958, RESELLER, f08c47fec0942fa0
+google.com, pub-5761017298734489, RESELLER, f08c47fec0942fa0
+Pubmatic.com, 161094, DIRECT, 5d62403b186f2ace
+Pubmatic.com, 162736, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 23978, RESELLER, 0bfd66d529a55807
+openx.com, 545708355, DIRECT, 6a698e2ec38604c6
+openx.com, 558218698, DIRECT, 6a698e2ec38604c6
+onetag.com, 5847a7d7e75dee8, DIRECT
+rubiconproject.com, 23404, DIRECT, 0bfd66d529a55807
+lijit.com, 230102, DIRECT, fafdf38b16bf6b2b #SOVRN
+lijit.com, 230102-eb, DIRECT, fafdf38b16bf6b2b #SOVRN
+krushmedia.com, AJxF6R572a9M6CaTvK, RESELLER
+vidgyor.com,20020, DIRECT
+google.com, pub-8863191426564274, RESELLER, f08c47fec0942fa0
+pubmatic.com, 162319, RESELLER, 5d62403b186f2ace
+aniview.com, 60c5dbc56627cd1ce66ff020, RESELLER, 78b21b97965ec3f8
+minutemedia.com,01hj1rkkswwe, RESELLER
+
 OWNERDOMAIN=hockeydb.com
 MANAGERDOMAIN=didna.io
 
