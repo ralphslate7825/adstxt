@@ -30,8 +30,7 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-
-#diDNA ads dot txt 2/23/24
+#diDNA ads dot txt 4/4/24
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -41,11 +40,6 @@ google.com, pub-2829411399762487, RESELLER, f08c47fec0942fa0 #diDNA_google_adsen
 
 #diDNA Yahoo SSP
 yahoo.com, 55017, RESELLER, e1a5b5b6e3255540 #diDNA_yahoossp_hb
-
-#diDNA AOL - OneMobile - Display
-aolcloud.net, 11609, DIRECT, #diDNA_onemobile_hb
-yahoo.com, 55017, RESELLER, e1a5b5b6e3255540 #diDNA_onemobile_hb
-#diDNA AOL - OneMobile - Video
 
 #diDNA Pubmatic
 pubmatic.com, 159744, DIRECT, 5d62403b186f2ace #diDNA_pubmatic_ob
@@ -156,15 +150,18 @@ mintegral.com,10043,RESELLER,0aeed750c80d6423 #diDNA_amazon
 sonobi.com,7f5fa520f8,RESELLER,d1a215d9eb5aee9e #diDNA_amazon
 indexexchange.com,199987,DIRECT,50b1c356f2c5c8fc #diDNA_amazon
 media.net,8CUZ1MK22,RESELLER #diDNA_amazon
-risecodes.com,63832beef8189a00015cb6d3,RESELLER #diDNA_amazon
 mediago.io,045ac24b888bcf59a09731e7f0f2084f,RESELLER #diDNA_amazon
-adyoulike.com,7463c359225e043c111036d7a29affa5,RESELLER, 4ad745ead2958bf7 #diDNA_amazon
 visiblemeasures.com,1052,RESELLER #diDNA_amazon
 onetag.com,63cef4c722237f4,DIRECT #diDNA_amazon
 minutemedia.com,01g7qagjtx2p,DIRECT #diDNA_amazon
 undertone.com,4205,RESELLER,d954590d0cb265b9 #diDNA_amazon
-admedia.com,AM1601,RESELLER #diDNA_amazon
+imds.tv,AM1601,RESELLER,ae6c32151e71f19d #diDNA_amazon
+vidazoo.com,64ee0363fd0942fca4082d50,DIRECT,b6ada874b4d7d0b2 #diDNA_amazon
 kargo.com,8824,RESELLER #diDNA_amazon
+adyoulike.com,7463c359225e043c111036d7a29affa5,RESELLER,4ad745ead2958bf7 #diDNA_amazon
+adyoulike.com,f1e9cd7b291282fcad240a455fd65c12,DIRECT,4ad745ead2958bf7 #diDNA_amazon
+risecodes.com,5e5bd88e0005a80001867579,DIRECT #diDNA_amazon
+start.io,123111883,RESELLER #diDNA_amazon
 
 #diDNA Infolinks
 infolinks.com, 3289770, DIRECT #diDNA_infolinks
@@ -230,12 +227,6 @@ amxrtb.com, 105199704, RESELLER #diDNA_infolinks
 media.net, 8CU1MXMOP, DIRECT #diDNA_medianet_ob
 media.net, 8CUJY6S41, RESELLER #diDNA_medianet_hb
 
-#diDNA Sonobi
-sonobi.com, a9012a99fa, RESELLER, d1a215d9eb5aee9e #diDNA_sonobi_ob
-sonobi.com, aed66d9e2d, RESELLER, d1a215d9eb5aee9e #diDNA_sonobi_hb
-rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47 #diDNA_sonobi
-contextweb.com, 560606, RESELLER, 89ff185a4c4e857c #diDNA_sonobi
-
 #Next Millennium Media
 nextmillennium.io, 15318, DIRECT, 65bd090fa4a1e3d6 #diDNA_nextmillennium_hb
 nextmillennium.io, 16628, DIRECT, 65bd090fa4a1e3d6 #diDNA_nextmillennium_ortb
@@ -270,10 +261,6 @@ rubiconproject.com, 21642, RESELLER, 0bfd66d529a55807 #diDNA_33across
 ##pubmatic.com, 156423, RESELLER, 5d62403b186f2ace #diDNA_33across
 triplelift.com, 12503, RESELLER, 6c33edb13117fd86 #diDNA_33across
 
-
-#diDNA Sports Genius
-appnexus.com, 7320, RESELLER, f5ab79cb980f11d1 #diDNA_sportsgenius
-
 #diDNA NoBid
 nobid.io, 22360290126, RESELLER #diDNA_nobid_hb
 #yahoo.com, 57289, RESELLER, e1a5b5b6e3255540 #diDNA_nobid
@@ -302,11 +289,6 @@ pubmatic.com, 158355, RESELLER, 5d62403b186f2ace #diDNA_nobid
 sonobi.com, 7ad1b9f952, RESELLER, d1a215d9eb5aee9e #diDNA_nobid
 yahoo.com, 59885, RESELLER, e1a5b5b6e3255540 #diDNA_nobid
 indexexchange.com, 195491, RESELLER, 50b1c356f2c5c8fc #diDNA_nobid
-
-# diDNA E-Planning
-e-planning.net,386a7ee46aa2d8a4,RESELLER,c1ba615865ed87b2 #diDNA_eplanning_hb
-openx.com,541031350,RESELLER,6a698e2ec38604c6 #diDNA_eplanning
-pubmatic.com,156631,RESELLER,5d62403b186f2ace #diDNA_eplanning
 
 #diDNA RichAudience-Exte
 richaudience.com, 8ungxVGrTW, DIRECT #diDNA_richaudience
@@ -507,38 +489,10 @@ rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807 #diDNA_OneTag
 freewheel.tv, 20393, RESELLER #diDNA_OneTag
 freewheel.tv, 24377, RESELLER #diDNA_OneTag
 
-#diDNA_DailyMotion
-nsightvideo.com,156047252,RESELLER,fd25240165056a01 #diDNA_DailyMotion
-google.com,pub-7019376976432612,RESELLER,f08c47fec0942fa0 #diDNA_DailyMotion
-rubiconproject.com,8769,RESELLER,0bfd66d529a55807 #diDNA_DailyMotion
-freewheel.tv,1171057,RESELLER #diDNA_DailyMotion
-freewheel.tv,1171553,RESELLER #diDNA_DailyMotion
-freewheel.tv,1168417,RESELLER #diDNA_DailyMotion
-freewheel.tv,1168481,RESELLER #diDNA_DailyMotion
-rhythmone.com,1107452720,RESELLER,a670c89d4a324e47 #diDNA_DailyMotion
-appnexus.com,1356,RESELLER,f5ab79cb980f11d1 #diDNA_DailyMotion
-emxdgt.com,1289,RESELLER,1e1d41537f7cad7f #diDNA_DailyMotion
-districtm.io,100025,RESELLER,3fd707be9c4527c3 #diDNA_DailyMotion
-video.unrulymedia.com,1107452720,RESELLER,a670c89d4a324e47 #diDNA_DailyMotion
-
 #diDNA Colossus SSP
 supply.colossusssp.com, 563, DIRECT, 6c5b49d96ec1b458 #diDNA_colossus
 appnexus.com, 10490, RESELLER, f5ab79cb980f11d1 #diDNA_colossus
 yieldmo.com, 3078438591206989879, RESELLER, #ortb #diDNA_colossus
-
-#diDNA RTB House
-rtbhouse.com, AMuPksjBXvwLaZh4akLX, DIRECT #diDNA_rtbhouse
-
-#diDNA Krush Media
-krushmedia.com, AJxF6R547a9M6CaTvK, RESELLER #diDNA_krushmedia
-digimedllc.com, T3CuGr547nI3eQCxtp, RESELLER #diDNA_krushmedia
-33across.com, 0010b00002ZoRYhAAN, DIRECT, bbea06d9c4d2853c #diDNA_krushmedia_display
-video.unrulymedia.com, 9085206363819624071, DIRECT #diDNA_krushmedia
-gumgum.com, 14222, RESELLER, ffdef49475d318a9 #diDNA_krushmedia_display
-media.net, 8CUT87EOU, DIRECT #diDNA_krushmedia_display #diDNA_krushmedia_video
-video.unrulymedia.com, 2736329702851206590, DIRECT #diDNA_krushmedia_video
-freewheel.tv,1522514,RESELLER #diDNA_krushmedia_video
-media.net, 8CUT87EOU, DIRECT #diDNA_krushmedia_video
 
 #diDNA Mediafuse
 mediafuse.com, 689, DIRECT #diDNA_mediafuse
