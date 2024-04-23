@@ -1,6 +1,6 @@
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 4/19/24
+#diDNA ads dot txt 4/23/24
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -698,10 +698,55 @@ rubiconproject.com, 19654, DIRECT, 0bfd66d529a55807 #diDNA_adwmg
 rubiconproject.com, 19652, DIRECT, 0bfd66d529a55807 #diDNA_adwmg
 
 #diDNA Revcontent
-revcontent.com, 187881, DIRECT
-pubmatic.com, 160835, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 24588, RESELLER, 0bfd66d529a55807
-smartadserver.com, 4531, RESELLER, 060d053dcf45cbf3
+revcontent.com, 187881, DIRECT #diDNA_revcontent
+pubmatic.com, 160835, RESELLER, 5d62403b186f2ace #diDNA_revcontent
+rubiconproject.com, 24588, RESELLER, 0bfd66d529a55807 #diDNA_revcontent
+smartadserver.com, 4531, RESELLER, 060d053dcf45cbf3 #diDNA_revcontent
+
+#diDNA Optima
+optimanetwork.com, 10382, DIRECT #diDNA_optima
+pubmatic.com, 163370, DIRECT, 5d62403b186f2ace #diDNA_optima
+google.com, pub-4586415728471297, DIRECT, f08c47fec0942fa0 #diDNA_optima
+google.com, pub-8863191426564274, RESELLER, f08c47fec0942fa0 #diDNA_optima
+openx.com, 557904194, RESELLER, 6a698e2ec38604c6 #diDNA_optima
+criteo.com, B-068838, DIRECT, 9fac4a4a87c2a44f #diDNA_optima
+themediagrid.com, Q6VXLE, DIRECT, 35d5010d7789b49d #diDNA_optima
+readwhere.digital, rd891fiofzktecyodvubtsyqhutsincexqe63e23569bf264, DIRECT #diDNA_optima
+rwadx.com, rw977gpobmmvyzkafzpcmlnltnlnloklkxu63e22fbe6eb32, DIRECT #diDNA_optima
+aps.amazon.com, 5d8ed25e-57cc-441a-b62a-127b34faae4e, DIRECT #diDNA_optima
+rubiconproject.com, 24872, DIRECT, 0bfd66d529a55807 #diDNA_optima
+rubiconproject.com, 24874, DIRECT, 0bfd66d529a55807 #diDNA_optima
+pubmatic.com, 159727, RESELLER, 5d62403b186f2ace #diDNA_optima
+criteo.com, B-060927, DIRECT, 9fac4a4a87c2a44f #diDNA_optima
+themediagrid.com, TR634Q, DIRECT, 35d5010d7789b49d #diDNA_optima
+e-planning.net,2dc7f47b1dc81e28,DIRECT,c1ba615865ed87b2 #diDNA_optima
+appnexus.com, 15941, RESELLER, f5ab79cb980f11d1 #diDNA_optima
+onetag.com, 5927d926323dc2c, RESELLER #diDNA_optima
+adsolut.in, 16761, DIRECT #diDNA_optima
+playstream.media, 1891, DIRECT #diDNA_optima
+vdo.ai, 2213_3552, DIRECT #diDNA_optima
+atlas5.co, 2213_3552, DIRECT #diDNA_optima
+walletcircle.co, 2213, DIRECT #diDNA_optima
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0 #diDNA_optima
+google.com, pub-2403018226404213, RESELLER, f08c47fec0942fa0 #diDNA_optima
+unibots.in, UBC-0165-1, DIRECT #diDNA_optima
+google.com, pub-2730263451308801, RESELLER, f08c47fec0942fa0 #diDNA_optima
+google.com, pub-5200956238394958, RESELLER, f08c47fec0942fa0 #diDNA_optima
+google.com, pub-5761017298734489, RESELLER, f08c47fec0942fa0 #diDNA_optima
+pubmatic.com, 161094, DIRECT, 5d62403b186f2ace #diDNA_optima
+pubmatic.com, 162736, DIRECT, 5d62403b186f2ace #diDNA_optima
+rubiconproject.com, 23978, RESELLER, 0bfd66d529a55807 #diDNA_optima
+openx.com, 545708355, DIRECT, 6a698e2ec38604c6 #diDNA_optima
+openx.com, 558218698, DIRECT, 6a698e2ec38604c6 #diDNA_optima
+onetag.com, 5847a7d7e75dee8, DIRECT #diDNA_optima
+rubiconproject.com, 23404, DIRECT, 0bfd66d529a55807 #diDNA_optima
+lijit.com, 230102, DIRECT, fafdf38b16bf6b2b #diDNA_optima
+lijit.com, 230102-eb, DIRECT, fafdf38b16bf6b2b #diDNA_optima
+krushmedia.com, AJxF6R572a9M6CaTvK, RESELLER #diDNA_optima
+vidgyor.com,20020, DIRECT #diDNA_optima
+pubmatic.com, 162319, RESELLER, 5d62403b186f2ace #diDNA_optima
+aniview.com, 60c5dbc56627cd1ce66ff020, RESELLER, 78b21b97965ec3f8 #diDNA_optima
+minutemedia.com,01hj1rkkswwe, RESELLER #diDNA_optima
 
 #contact diDNA
 contact=ops@diDNA.io
