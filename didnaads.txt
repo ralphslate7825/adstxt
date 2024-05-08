@@ -585,12 +585,12 @@ yieldmo.com, 2757543169808605705, RESELLER #diDNA_brightcom
 onlinemediasolutions.com, 20900, DIRECT #diDNA_brightcom_ortb
 onomagic.com, 209001, DIRECT #diDNA_brightcom_ortb
 loopme.com, 12733, RESELLER, 6c8d5f95897a5a3b #diDNA_brightcom_hb_ortb
-sharethrough.com, Ey4o0VpT, RESELLER, d53b998a7bd4ecd2
-adyoulike.com, e102ab4faade732565927e57d62d6b8b, RESELLER, 4ad745ead2958bf7
-video.unrulymedia.com, 6694405583287859332, RESELLER
-appnexus.com, 15710, RESELLER, f5ab79cb980f11d1
-adyoulike.com, e9a771d72c076dbe3cafc2c6477f9238, RESELLER, 4ad745ead2958bf7
-richaudience.com, pbFfC4454A, RESELLER
+sharethrough.com, Ey4o0VpT, RESELLER, d53b998a7bd4ecd2 #diDNA_brightcom
+adyoulike.com, e102ab4faade732565927e57d62d6b8b, RESELLER, 4ad745ead2958bf7 #diDNA_brightcom
+video.unrulymedia.com, 6694405583287859332, RESELLER #diDNA_brightcom
+appnexus.com, 15710, RESELLER, f5ab79cb980f11d1 #diDNA_brightcom
+adyoulike.com, e9a771d72c076dbe3cafc2c6477f9238, RESELLER, 4ad745ead2958bf7 #diDNA_brightcom
+richaudience.com, pbFfC4454A, RESELLER #diDNA_brightcom
 
 #diDNA Kueez
 kueez.com,47dddf0cd264011878c0f76b8d4a5362, DIRECT #diDNA_kueez
