@@ -75,7 +75,7 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 5/21/24
+#diDNA ads dot txt 6/11/24
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -625,6 +625,7 @@ smartadserver.com, 4284, RESELLER #diDNA_rise
 freewheel.tv, 1590601, RESELLER #diDNA_rise
 freewheel.tv, 1590606, RESELLER #diDNA_rise
 themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d #diDNA_rise
+lijit.com, 405318, RESELLER, fafdf38b16bf6b2b #diDNA_rise
 
 #diDNA Brightcom
 brightcom.com, 20131, DIRECT #diDNA_brightcom_HB
