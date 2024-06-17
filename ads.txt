@@ -75,7 +75,7 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 6/11/24
+#diDNA ads dot txt 6/17/24
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -880,6 +880,9 @@ rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807 #diDNA_seedtag
 openx.com, 540274407, RESELLER, 6a698e2ec38604c6 #diDNA_seedtag
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c #diDNA_seedtag
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4 #diDNA_seedtag
+
+#diDNA Fluct
+adingo.jp, 31129, RESELLER #diDNA_fluct_OB
 
 #contact diDNA
 contact=ops@diDNA.io
