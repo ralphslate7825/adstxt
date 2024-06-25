@@ -75,7 +75,7 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 6/17/24
+#diDNA ads dot txt 6/25/24
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -667,6 +667,8 @@ video.unrulymedia.com, 6694405583287859332, RESELLER #diDNA_brightcom
 appnexus.com, 15710, RESELLER, f5ab79cb980f11d1 #diDNA_brightcom
 adyoulike.com, e9a771d72c076dbe3cafc2c6477f9238, RESELLER, 4ad745ead2958bf7 #diDNA_brightcom
 richaudience.com, pbFfC4454A, RESELLER #diDNA_brightcom
+appnexus.com, 15629, RESELLER, f5ab79cb980f11d1 #diDNA_brightcom
+yieldmo.com, 3510470934114804386, RESELLER #diDNA_brightcom
 
 #diDNA Kueez
 kueez.com,47dddf0cd264011878c0f76b8d4a5362, DIRECT #diDNA_kueez
