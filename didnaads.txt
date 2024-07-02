@@ -1,6 +1,6 @@
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 6/25/24
+#diDNA ads dot txt 7/2/24
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -259,6 +259,14 @@ pubmatic.com, 158355, RESELLER, 5d62403b186f2ace #diDNA_nobid
 sonobi.com, 7ad1b9f952, RESELLER, d1a215d9eb5aee9e #diDNA_nobid
 yahoo.com, 59885, RESELLER, e1a5b5b6e3255540 #diDNA_nobid
 indexexchange.com, 195491, RESELLER, 50b1c356f2c5c8fc #diDNA_nobid
+dxkulture.com, 0098, DIRECT, 259726033fc4df0c #diDNA_nobid
+adswizz.com,dxkulture,DIRECT #diDNA_nobid
+adswizz.com,651,DIRECT #diDNA_nobid
+pubmatic.com,164751,RESELLER,5d62403b186f2ace #diDNA_nobid
+rubiconproject.com,26094,DIRECT,0bfd66d529a55807 #diDNA_nobid
+zetaglobal.net,790,DIRECT #diDNA_nobid
+ssp.disqus.com,790,DIRECT #diDNA_nobid
+video.unrulymedia.com,946176315,RESELLER #diDNA_nobid
 
 #diDNA RichAudience-Exte
 richaudience.com, 8ungxVGrTW, DIRECT #diDNA_richaudience
@@ -594,6 +602,7 @@ adyoulike.com, e9a771d72c076dbe3cafc2c6477f9238, RESELLER, 4ad745ead2958bf7 #diD
 richaudience.com, pbFfC4454A, RESELLER #diDNA_brightcom
 appnexus.com, 15629, RESELLER, f5ab79cb980f11d1 #diDNA_brightcom
 yieldmo.com, 3510470934114804386, RESELLER #diDNA_brightcom
+aps.amazon.com, 48266a61-b3d9-4cb7-b172-553abc6a42a4, DIRECT #diDNA_brightcom
 
 #diDNA Kueez
 kueez.com,47dddf0cd264011878c0f76b8d4a5362, DIRECT #diDNA_kueez
