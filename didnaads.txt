@@ -1,6 +1,6 @@
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 7/9/24
+#diDNA ads dot txt 7/18/24
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -261,6 +261,7 @@ rubiconproject.com,26094,DIRECT,0bfd66d529a55807 #diDNA_nobid
 zetaglobal.net,790,DIRECT #diDNA_nobid
 ssp.disqus.com,790,DIRECT #diDNA_nobid
 video.unrulymedia.com,946176315,RESELLER #diDNA_nobid
+dxkulture.com, 9533, DIRECT, 259726033fc4df0c #diDNA_nobid
 
 #diDNA RichAudience-Exte
 richaudience.com, 8ungxVGrTW, DIRECT #diDNA_richaudience
