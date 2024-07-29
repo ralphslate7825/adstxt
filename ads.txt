@@ -75,16 +75,13 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 7/23/24
+#diDNA ads dot txt 7/29/24
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
 
 #diDNA Adsense
 google.com, pub-2829411399762487, RESELLER, f08c47fec0942fa0 #diDNA_google_adsense
-
-#diDNA Yahoo SSP
-yahoo.com, 55017, RESELLER, e1a5b5b6e3255540 #diDNA_yahoossp_hb
 
 #diDNA Pubmatic
 pubmatic.com, 159744, DIRECT, 5d62403b186f2ace #diDNA_pubmatic_ob
@@ -749,18 +746,6 @@ yahoo.com, 56692, RESELLER, e1a5b5b6e3255540
 yahoo.com, 57289, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 
-#diDNA SmileWanted
-smilewanted.com, 4246, RESELLER #diDNA_smilewanted
-pubmatic.com, 158810, RESELLER, 5d62403b186f2ace #diDNA_smilewanted
-smartadserver.com, 2491, RESELLER #diDNA_smilewanted
-rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807 #diDNA_smilewanted
-appnexus.com, 10040, RESELLER, f5ab79cb980f11d1 #diDNA_smilewanted
-improvedigital.com, 1010, RESELLER #diDNA_smilewanted
-openx.com, 557083110, RESELLER, 6a698e2ec38604c6 #diDNA_smilewanted
-sharethrough.com, TZ1ahFV8, RESELLER, d53b998a7bd4ecd2 #diDNA_smilewanted
-lijit.com, 346012-eb, DIRECT, fafdf38b16bf6b2b #diDNA_smilewanted
-adform.com, 3027, RESELLER #diDNA_smilewanted
-
 #diDNA Adipolo
 adipolo.com, 22611285429, RESELLER #diDNA_adipolo
 adipolosolutions.com, 22611285429, RESELLER #diDNA_adipolo
@@ -779,17 +764,8 @@ pmbmonetize.com, 22934895009, DIRECT #diDNA_adipolo
 selectmedia.asia, 22703897216, RESELLER #diDNA_adipolo
 onetag.com, 61d88450bdb25bc-OB, DIRECT #diDNA_adipolo
 
-#diDNA adWMG
-adwmg.com, b2eb7349035754953b57a32e2841bda534397, DIRECT, c9688a22012618e7 #diDNA_adwmg
-google.com, pub-8622186303703569, DIRECT, f08c47fec0942fa0 #diDNA_adwmg
-rubiconproject.com, 19654, DIRECT, 0bfd66d529a55807 #diDNA_adwmg
-rubiconproject.com, 19652, DIRECT, 0bfd66d529a55807 #diDNA_adwmg
 
-#diDNA Revcontent
-revcontent.com, 187881, DIRECT #diDNA_revcontent
-pubmatic.com, 160835, RESELLER, 5d62403b186f2ace #diDNA_revcontent
-rubiconproject.com, 24588, RESELLER, 0bfd66d529a55807 #diDNA_revcontent
-smartadserver.com, 4531, RESELLER, 060d053dcf45cbf3 #diDNA_revcontent
+
 
 #diDNA Optima
 optimanetwork.com, 10382, DIRECT #diDNA_optima
@@ -842,50 +818,6 @@ rubiconproject.com, 24228, RESELLER, 0bfd66d529a55807 #diDNA_waardex
 xandr.com, 13117, RESELLER #diDNA_waardex
 adyoulike.com, cea2adf686c5179d6d96c9b0bbac777e, RESELLER, 4ad745ead2958bf7 #diDNA_waardex
 amxrtb.com, 105199489, RESELLER #diDNA_waardex
-
-#diDNA Seedtag
-seedtag.com, 65f88f91faf5090007b95f1d, DIRECT #diDNA_seedtag
-xandr.com, 4009, DIRECT #diDNA_seedtag
-smartadserver.com, 3050, DIRECT #diDNA_seedtag
-rubiconproject.com, 17280, DIRECT, 0bfd66d529a55807 #diDNA_seedtag
-sovrn.com, 397546, DIRECT, fafdf38b16bf6b2b #diDNA_seedtag
-lijit.com, 397546, RESELLER, fafdf38b16bf6b2b #diDNA_seedtag
-openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #diDNA_seedtag
-openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #diDNA_seedtag
-pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #diDNA_seedtag
-pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #diDNA_seedtag
-rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #diDNA_seedtag
-onetag.com, 75601b04186d260, DIRECT #diDNA_seedtag
-rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807 #diDNA_seedtag
-appnexus.com, 13099, RESELLER, f5ab79cb980f11d1 #diDNA_seedtag
-smartadserver.com, 4111, RESELLER #diDNA_seedtag
-richaudience.com, ns9qrKJLKD, RESELLER #diDNA_seedtag
-pubmatic.com, 156439, RESELLER, 5d62403b186f2ace #diDNA_seedtag
-rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 #diDNA_seedtag
-openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #diDNA_seedtag
-appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 #diDNA_seedtag
-loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b #diDNA_seedtag
-rhythmone.com, 2564526802, RESELLER, a670c89d4a324e47 #diDNA_seedtag
-smaato.com, 1100044045, RESELLER, 07bcf65f187117b4 #diDNA_seedtag
-verve.com, 15503, RESELLER, 0c8f5958fc2d6270 #diDNA_seedtag
-adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7 #diDNA_seedtag
-axonix.com, 57264, RESELLER #diDNA_seedtag
-pubmatic.com, 157743, DIRECT, 5d62403b186f2ace #diDNA_seedtag
-adform.com, 1889, RESELLER #diDNA_seedtag
-indexexchange.com, 191730, RESELLER, 50b1c356f2c5c8fc #diDNA_seedtag
-improvedigital.com, 1680, DIRECT #diDNA_seedtag
-openx.com, 558758631, RESELLER, 6a698e2ec38604c6 #diDNA_seedtag
-adyoulike.com, 83d15ef72d387a1e60e5a1399a2b0c03, DIRECT, 4ad745ead2958bf7 #diDNA_seedtag
-rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807 #diDNA_seedtag
-pubmatic.com, 160925, RESELLER, 5d62403b186f2ace #diDNA_seedtag
-33across.com, 0010b00002MptHCAAZ, RESELLER, bbea06d9c4d2853c #diDNA_seedtag
-sharethrough.com, AXS5NfBr, RESELLER, d53b998a7bd4ecd2 #diDNA_seedtag
-pubmatic.com, 156557, RESELLER, 5d62403b186f2ace #diDNA_seedtag
-pubmatic.com, 158723, RESELLER, 5d62403b186f2ace #diDNA_seedtag
-rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807 #diDNA_seedtag
-openx.com, 540274407, RESELLER, 6a698e2ec38604c6 #diDNA_seedtag
-33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c #diDNA_seedtag
-smaato.com, 1100047713, RESELLER, 07bcf65f187117b4 #diDNA_seedtag
 
 #diDNA Fluct
 adingo.jp, 31129, RESELLER #diDNA_fluct_OB
