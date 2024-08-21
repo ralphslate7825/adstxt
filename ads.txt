@@ -75,7 +75,7 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 8/6/24
+#diDNA ads dot txt 8/21/24
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -626,6 +626,8 @@ freewheel.tv, 1590601, RESELLER #diDNA_rise
 freewheel.tv, 1590606, RESELLER #diDNA_rise
 themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d #diDNA_rise
 lijit.com, 405318, RESELLER, fafdf38b16bf6b2b #diDNA_rise
+smaato.com, 1100057444, RESELLER, 07bcf65f187117b4 #diDNA_rise
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4 #diDNA_rise
 
 #diDNA Brightcom
 brightcom.com, 20131, DIRECT #diDNA_brightcom_HB
@@ -670,6 +672,7 @@ richaudience.com, pbFfC4454A, RESELLER #diDNA_brightcom
 appnexus.com, 15629, RESELLER, f5ab79cb980f11d1 #diDNA_brightcom
 yieldmo.com, 3510470934114804386, RESELLER #diDNA_brightcom
 aps.amazon.com, 48266a61-b3d9-4cb7-b172-553abc6a42a4, DIRECT #diDNA_brightcom
+themediagrid.com, NF76LV, RESELLER, 35d5010d7789b49d #diDNA_brightcom
 
 #diDNA Kueez
 kueez.com,47dddf0cd264011878c0f76b8d4a5362, DIRECT #diDNA_kueez
