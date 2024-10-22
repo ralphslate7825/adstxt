@@ -262,13 +262,20 @@ dxkulture.com, 9533, DIRECT, 259726033fc4df0c #diDNA_nobid
 
 #diDNA RichAudience-Exte
 richaudience.com, 8ungxVGrTW, DIRECT #diDNA_richaudience
-sunmedia.tv, 12918514-294e-4e6e-8eae-c89a8fec20f5, DIRECT #diDNA_richaudience
 richaudience.com, quxufDBTNs, DIRECT #diDNA_richaudience
 richaudience.com, 06EhCbcfZK, DIRECT #diDNA_richaudience
 appnexus.com, 8233, RESELLER, f5ab79cb980f11d1 #diDNA_richaudience
 pubmatic.com, 81564, RESELLER, 5d62403b186f2ace #diDNA_richaudience
 pubmatic.com, 156538, RESELLER, 5d62403b186f2ace #diDNA_richaudience
 rubiconproject.com, 13510, DIRECT, 0bfd66d529a55807 #diDNA_richaudience
+contextweb.com, 563371, RESELLER, 89ff185a4c4e857c #diDNA_richaudience
+adform.com, 1942, RESELLER #diDNA_richaudience
+lijit.com, 249425, RESELLER #diDNA_richaudience
+smartadserver.com, 2640, RESELLER #diDNA_richaudience
+adyoulike.com, f1dfbb7f133fbdb25c96e7d85a5e628b, RESELLER #diDNA_richaudience
+onetag.com, 8d4b087143c49f0, RESELLER #diDNA_richaudience
+amxrtb.com, 105199794, RESELLER #diDNA_richaudience
+smartadserver.com, 1999, RESELLER, 060d053dcf45cbf3 #diDNA_richaudience
 
 #diDNA Aniview
 aniview.com, 5fbf84268a9b36497d036958, RESELLER, 78b21b97965ec3f8 #diDNA_aniview
