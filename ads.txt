@@ -75,7 +75,7 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 10/21/24
+#diDNA ads dot txt 10/29/24
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -911,6 +911,19 @@ video.unrulymedia.com, 1767448067723954599, RESELLER #diDNA_smilewanted
 advertising.com, 23089, RESELLER #diDNA_smilewanted
 advertising.com, 28605, RESELLER #diDNA_smilewanted
 contextweb.com, 558511, RESELLER, 89ff185a4c4e857c #diDNA_smilewanted
+
+#diDNA Smaato
+smaato.com, 1100057849, DIRECT, 07bcf65f187117b4 #diDNA_smaato
+pubmatic.com, 156425, RESELLER, 5d62403b186f2ace #diDNA_smaato
+pubmatic.com, 156177, RESELLER, 5d62403b186f2ace #diDNA_smaato
+loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b #diDNA_smaato
+openx.com, 540421297, RESELLER, 6a698e2ec38604c6 #diDNA_smaato
+blis.com, 86, RESELLER, 61453ae19a4b73f4 #diDNA_smaato
+inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d #diDNA_smaato
+smartadserver.com, 3117, RESELLER, 060d053dcf45cbf3 #diDNA_smaato
+opera.com, pub4444433466368, RESELLER, 55a0c5fd61378de3 #diDNA_smaato
+contextweb.com, 558622, RESELLER, 89ff185a4c4e857c #diDNA_smaato
+152media.info, 152M608, RESELLER #diDNA_smaato
 
 #contact diDNA
 contact=ops@diDNA.io
