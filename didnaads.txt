@@ -1,6 +1,6 @@
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 11/22/24
+#diDNA ads dot txt 1/7/25
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -212,6 +212,8 @@ triplelift.com, 7001, RESELLER, 6c33edb13117fd86 #diDNA_nextmillennium
 #appnexus.com, 1314, RESELLER, f5ab79cb980f11d1 #diDNA_nextmillennium
 gannett.com, 23033711203, DIRECT #diDNA_nextmillennium
 rubiconproject.com, 10968, RESELLER, 0bfd66d529a55807 #diDNA_nextmillennium
+minutemedia.com, 01hrwcpktpex, RESELLER #diDNA_nextmillennium
+vidazoo.com, 6758ab85cf87d901ca0241ff, DIRECT, b6ada874b4d7d0b2 #diDNA_nextmillennium
 
 #diDNA 33across
 33across.com, 0010b00002QK3z6AAD, RESELLER, bbea06d9c4d2853c #diDNA_33across_hb
