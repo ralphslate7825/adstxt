@@ -75,7 +75,7 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 1/7/25
+#diDNA ads dot txt 1/9/25
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -108,13 +108,16 @@ lijit.com, 236010-eb, RESELLER, fafdf38b16bf6b2b #diDNA_sovrn_ob
 lijit.com, 480899, DIRECT, fafdf38b16bf6b2b #diDNA_sovrn_ortb
 lijit.com, 480899-eb, DIRECT, fafdf38b16bf6b2b #diDNA_sovrn_ortb
 openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #diDNA_sovrn
-openx.com, 539924617, RESELLER, 6a698e2ec38604c6 #diDNA_sovrn
 pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #diDNA_sovrn
 pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #diDNA_sovrn
 rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #diDNA_sovrn
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1 #diDNA_sovrn
 video.unrulymedia.com, 2444764291, RESELLER #diDNA_sovrn
 contextweb.com, 558511, RESELLER, 89ff185a4c4e857c #diDNA_sovrn
+krushmedia.com, AJxF6R572a9M6CaTvK, RESELLER #diDNA_sovrn
+motorik.io, 100463, RESELLER #diDNA_sovrn
+smaato.com, 1100056344, RESELLER, 07bcf65f187117b4 #diDNA_sovrn
+smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3 #diDNA_sovrn
 
 #diDNA Sharethrough 
 sharethrough.com, 3232726a, RESELLER, d53b998a7bd4ecd2 #diDNA_sharethrough_hb
