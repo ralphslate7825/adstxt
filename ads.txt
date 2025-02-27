@@ -75,7 +75,7 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 1/9/25
+#diDNA ads dot txt 2/27/25
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -931,6 +931,9 @@ smartadserver.com, 3117, RESELLER, 060d053dcf45cbf3 #diDNA_smaato
 opera.com, pub4444433466368, RESELLER, 55a0c5fd61378de3 #diDNA_smaato
 contextweb.com, 558622, RESELLER, 89ff185a4c4e857c #diDNA_smaato
 152media.info, 152M608, RESELLER #diDNA_smaato
+
+#diDNA Duration Media
+durationmedia.net, 23282223912, DIRECT #diDNA_durationmedia
 
 #contact diDNA
 contact=ops@diDNA.io
