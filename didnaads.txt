@@ -1,6 +1,6 @@
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 2/27/25
+#diDNA ads dot txt 3/6/25
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -859,6 +859,13 @@ contextweb.com, 558622, RESELLER, 89ff185a4c4e857c #diDNA_smaato
 
 #diDNA Duration Media
 durationmedia.net, 23282223912, DIRECT #diDNA_durationmedia
+
+#diDNA Opera
+sabio.us,100092, DIRECT, 96ed93aaa9795702 #diDNA_opera_OB
+rubiconproject.com,17608,RESELLER,0bfd66d529a55807 #diDNA_opera_OB
+themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d #diDNA_opera_OB
+pubmatic.com,165340,RESELLER,5d62403b186f2ace #diDNA_opera_OB
+lijit.com,465542,RESELLER,fafdf38b16bf6b2b #diDNA_opera_OB
 
 #contact diDNA
 contact=ops@diDNA.io
