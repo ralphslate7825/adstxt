@@ -75,7 +75,7 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 3/10/25
+#diDNA ads dot txt 3/19/25
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -269,29 +269,26 @@ media.net, 8CUJY6S41, RESELLER #diDNA_medianet_hb
 #Next Millennium Media
 nextmillennium.io, 15318, DIRECT, 65bd090fa4a1e3d6 #diDNA_nextmillennium_hb
 nextmillennium.io, 16628, DIRECT, 65bd090fa4a1e3d6 #diDNA_nextmillennium_ortb
-google.com, pub-7269238500499280, RESELLER, f08c47fec0942fa0 #diDNA_nextmillennium
-gumgum.com, 13615, RESELLER, ffdef49475d318a9 #diDNA_nextmillennium
+admagnetix.io, 200487, DIRECT #diDNA_nextmillennium
+appnexus.com, 9284, DIRECT, f5ab79cb980f11d1 #diDNA_nextmillennium
+appnexus.com, 15799, DIRECT, f5ab79cb980f11d1 #diDNA_nextmillennium
 rubiconproject.com, 17888, RESELLER, 0bfd66d529a55807 #diDNA_nextmillennium
-rubiconproject.com, 19142, RESELLER, 0bfd66d529a55807 #diDNA_nextmillennium
-openx.com, 540224251, RESELLER, 6a698e2ec38604c6 #diDNA_nextmillennium
-openx.com, 540233824, RESELLER, 6a698e2ec38604c6 #diDNA_nextmillennium
-openx.com, 540225743, RESELLER, 6a698e2ec38604c6 #diDNA_nextmillennium
-indexexchange.com, 188029, RESELLER, 50b1c356f2c5c8fc #diDNA_nextmillennium
-indexexchange.com, 188333, RESELLER, 50b1c356f2c5c8fc #diDNA_nextmillennium
-aps.amazon.com, 79e40b05-e673-4b6c-85f9-79252a7f96a5, RESELLER #diDNA_nextmillennium
-pubmatic.com, 157689, RESELLER, 5d62403b186f2ace #diDNA_nextmillennium
-pubmatic.com, 157577, RESELLER, 5d62403b186f2ace #diDNA_nextmillennium
-appnexus.com, 9284, RESELLER, f5ab79cb980f11d1 #diDNA_nextmillennium
-rhythmone.com, 316817661, RESELLER, a670c89d4a324e47 #diDNA_nextmillennium
-rhythmone.com, 2059465938, RESELLER, a670c89d4a324e47 #diDNA_nextmillennium
-video.unrulymedia.com, 316817661, RESELLER #diDNA_nextmillennium
-yieldmo.com, 2230523609997805235, RESELLER #diDNA_nextmillennium
-triplelift.com, 7001, RESELLER, 6c33edb13117fd86 #diDNA_nextmillennium
-#appnexus.com, 1314, RESELLER, f5ab79cb980f11d1 #diDNA_nextmillennium
+rubiconproject.com, 26296, RESELLER, 0bfd66d529a55807 #diDNA_nextmillennium
+pubmatic.com, 157577, DIRECT, 5d62403b186f2ace #diDNA_nextmillennium
+pubmatic.com, 164400, RESELLER, 5d62403b186f2ace #diDNA_nextmillennium
+openx.com, 540224251, DIRECT, 6a698e2ec38604c6 #diDNA_nextmillennium
+openx.com, 540225743, DIRECT, 6a698e2ec38604c6 #diDNA_nextmillennium
+33across.com, 0010b00002e4MRRAA2, DIRECT, bbea06d9c4d2853c #diDNA_nextmillennium
+33across.com, 001Pg000007PnplIAC, DIRECT, bbea06d9c4d2853c #diDNA_nextmillennium
+yieldmo.com, 2230523609997805235, DIRECT #diDNA_nextmillennium
+yieldmo.com, 3483642730188317326, DIRECT #diDNA_nextmillennium
+google.com, pub-7269238500499280, RESELLER, f08c47fec0942fa0 #diDNA_nextmillennium
+google.com, pub-8606804482029683, RESELLER, f08c47fec0942fa0 #diDNA_nextmillennium
 gannett.com, 23033711203, DIRECT #diDNA_nextmillennium
 rubiconproject.com, 10968, RESELLER, 0bfd66d529a55807 #diDNA_nextmillennium
-minutemedia.com, 01hrwcpktpex, RESELLER #diDNA_nextmillennium
-vidazoo.com, 6758ab85cf87d901ca0241ff, DIRECT, b6ada874b4d7d0b2 #diDNA_nextmillennium
+lijit.com, 323999, DIRECT, fafdf38b16bf6b2b #diDNA_nextmillennium
+pmc.com, 1243088, DIRECT, 8dd52f825890bb44 #diDNA_nextmillennium
+rubiconproject.com, 10278, RESELLER, 0bfd66d529a55807 #diDNA_nextmillennium
 
 #diDNA 33across
 33across.com, 0010b00002QK3z6AAD, RESELLER, bbea06d9c4d2853c #diDNA_33across_hb
