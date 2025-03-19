@@ -896,34 +896,28 @@ smaato.com, 1100047713, RESELLER, 07bcf65f187117b4 #diDNA_seedtag
 
 #diDNA SmileWanted
 smilewanted.com, 4246, RESELLER #diDNA_smilewanted
-152media.info, 152M728, RESELLER #diDNA_smilewanted
-betweendigital.com, 45128, DIRECT #diDNA_smilewanted
+pubmatic.com, 158810, RESELLER, 5d62403b186f2ace #diDNA_smilewanted
+rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807 #diDNA_smilewanted
+appnexus.com, 10040, RESELLER #diDNA_smilewanted
+smartadserver.com, 2491, RESELLER #diDNA_smilewanted
+amxrtb.com, 105199841, RESELLER #diDNA_smilewanted
+themediagrid.com, ZG1DBN, RESELLER, 35d5010d7789b49d #diDNA_smilewanted
 eskimi.com, 2020000768, RESELLER #diDNA_smilewanted
-improvedigital.com, 1010, RESELLER #diDNA_smilewanted
+33across.com, 001Pg000009Gtq2IAC, DIRECT, bbea06d9c4d2853c #diDNA_smilewanted
+152media.info, 152M728, RESELLER #diDNA_smilewanted
+adform.com, 3027, RESELLER #diDNA_smilewanted
+video.unrulymedia.com, 1767448067723954599, RESELLER #diDNA_smilewanted
+sharethrough.com, TZ1ahFV8, RESELLER, d53b998a7bd4ecd2 #diDNA_smilewanted
+openx.com, 557083110, RESELLER, 6a698e2ec38604c6 #diDNA_smilewanted
+google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0 #diDNA_smilewanted
+aniview.com, 5ef4bc022e79664d2b473869, RESELLER, 78b21b97965ec3f8 #diDNA_smilewanted
 loopme.com, 11468, RESELLER, 6c8d5f95897a5a3b #diDNA_smilewanted
 onetag.com, 7f5d22b0006ab5a, RESELLER #diDNA_smilewanted
-openx.com, 557083110, RESELLER, 6a698e2ec38604c6 #diDNA_smilewanted
-themediagrid.com, ZG1DBN, RESELLER, 35d5010d7789b49d #diDNA_smilewanted
 videoheroes.tv, 212648, RESELLER, 064bc410192443d8 #diDNA_smilewanted
-rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807 #diDNA_smilewanted
-appnexus.com, 10040, RESELLER, f5ab79cb980f11d1 #diDNA_smilewanted
-pubmatic.com, 158810, RESELLER, 5d62403b186f2ace #diDNA_smilewanted
-adform.com, 3027, RESELLER #diDNA_smilewanted
-smartadserver.com, 2491, RESELLER #diDNA_smilewanted
-rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807 #diDNA_smilewanted
-sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2 #diDNA_smilewanted
-contextweb.com, 558622, RESELLER, 89ff185a4c4e857c #diDNA_smilewanted
-inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d #diDNA_smilewanted
-triplelift.com, 12210-EB, RESELLER, 6c33edb13117fd86 #diDNA_smilewanted
-smaato.com, 1100055901, RESELLER, 07bcf65f187117b4 #diDNA_smilewanted
-smaato.com, 1100004890, RESELLER, 07bcf65f187117b4 #diDNA_smilewanted
-33across.com, 001Pg000009Gtq2IAC, DIRECT, bbea06d9c4d2853c #diDNA_smilewanted
-video.unrulymedia.com, 266978658, RESELLER #diDNA_smilewanted
-sharethrough.com, TZ1ahFV8, RESELLER, d53b998a7bd4ecd2 #diDNA_smilewanted
-video.unrulymedia.com, 1767448067723954599, RESELLER #diDNA_smilewanted
-advertising.com, 23089, RESELLER #diDNA_smilewanted
-advertising.com, 28605, RESELLER #diDNA_smilewanted
-contextweb.com, 558511, RESELLER, 89ff185a4c4e857c #diDNA_smilewanted
+betweendigital.com, 45128, DIRECT #diDNA_smilewanted
+dailymotion.com, 134295479, DIRECT, fd25240165056a01 #diDNA_smilewanted
+dailymotion.com, 128388946, DIRECT, fd25240165056a01 #diDNA_smilewanted
+improvedigital.com, 1010, RESELLER #diDNA_smilewanted #diDNA_smilewanted
 
 #diDNA Smaato
 smaato.com, 1100057849, DIRECT, 07bcf65f187117b4 #diDNA_smaato
