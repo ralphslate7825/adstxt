@@ -1,6 +1,6 @@
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 3/19/25
+#diDNA ads dot txt 3/27/25
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -866,6 +866,62 @@ rubiconproject.com,17608,RESELLER,0bfd66d529a55807 #diDNA_opera_OB
 themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d #diDNA_opera_OB
 pubmatic.com,165340,RESELLER,5d62403b186f2ace #diDNA_opera_OB
 lijit.com,465542,RESELLER,fafdf38b16bf6b2b #diDNA_opera_OB
+
+#diDNA STN
+stnvideo.com, STN_0005694, DIRECT #diDNA_STN
+google.com, pub-9505823743978337, RESELLER, f08c47fec0942fa0 #diDNA_STN
+aps.amazon.com, 6c3f03cd-6fa8-4477-ac05-2c0f4f8da092, RESELLER #diDNA_STN
+indexexchange.com, 187621, RESELLER, 50b1c356f2c5c8fc #diDNA_STN
+onetag.com, 8db071771c0f9c7, RESELLER #diDNA_STN
+pubmatic.com, 159710, RESELLER, 5d62403b186f2ace #diDNA_STN
+rubiconproject.com, 18782, RESELLER, 0bfd66d529a55807 #diDNA_STN
+sharethrough.com, 956615a1, RESELLER, d53b998a7bd4ecd2 #diDNA_STN
+triplelift.com, 11014, RESELLER, 6c33edb13117fd86 #diDNA_STN
+video.unrulymedia.com, 3728224204249146186, RESELLER #diDNA_STN
+appnexus.com, 8354, RESELLER, f5ab79cb980f11d1 #diDNA_STN
+emxdgt.com, 1369, RESELLER, 1e1d41537f7cad7f #diDNA_STN
+themediagrid.com, UT7ASD, RESELLER, 35d5010d7789b49d #diDNA_STN
+smartadserver.com, 4949, RESELLER, 060d053dcf45cbf3 #diDNA_STN
+openx.com, 539363661, RESELLER, 6a698e2ec38604c6 #diDNA_STN
+undertone.com, 3590, RESELLER, d954590d0cb265b9 #diDNA_STN
+yieldmo.com, 3584282742088475163, RESELLER #diDNA_STN
+conversantmedia.com, 100778, RESELLER, 03113cd04947736d #diDNA_STN
+nativo.com, 5923, RESELLER, 59521ca7cc5e9fee #diDNA_STN
+indexexchange.com, 187780, RESELLER, 50b1c356f2c5c8fc #diDNA_STN
+openx.com, 540021061, RESELLER, 6a698e2ec38604c6 #diDNA_STN
+rubiconproject.com, 18784, RESELLER, 0bfd66d529a55807 #diDNA_STN
+google.com, pub-3844877863303739, RESELLER, f08c47fec0942fa0 #diDNA_STN
+condenast.com, 22597733940, RESELLER, d6e8ec0b2b8564e0 #diDNA_STN
+google.com, pub-4159017740785598, RESELLER, f08c47fec0942fa0 #diDNA_STN
+google.com, pub-0978064532142215, RESELLER, f08c47fec0942fa0 #diDNA_STN
+google.com, pub-6245227841947028, RESELLER, f08c47fec0942fa0 #diDNA_STN
+google.com, pub-1872236547113677, RESELLER, f08c47fec0942fa0 #diDNA_STN
+onefootball.com, stn, RESELLER #diDNA_STN
+google.com, pub-8820362605711196, RESELLER, f08c47fec0942fa0 #diDNA_STN
+rogerssportsandmedia.com, 22597733940, RESELLER #diDNA_STN
+google.com, pub-0942427266003794, RESELLER, f08c47fec0942fa0 #diDNA_STN
+google.com, pub-5405132603504384, RESELLER, f08c47fec0942fa0 #diDNA_STN
+indexexchange.com, 184912, RESELLER, 50b1c356f2c5c8fc #diDNA_STN
+openx.com, 538995730, RESELLER, 6a698e2ec38604c6 #diDNA_STN
+rubiconproject.com, 17814, RESELLER, 0bfd66d529a55807 #diDNA_STN
+rubiconproject.com, 12738, RESELLER, 0bfd66d529a55807 #diDNA_STN
+openx.com, 540922801, RESELLER, 6a698e2ec38604c6 #diDNA_STN
+pubmatic.com, 158926, RESELLER, 5d62403b186f2ace #diDNA_STN
+rubiconproject.com, 21840, RESELLER, 0bfd66d529a55807 #diDNA_STN
+video.unrulymedia.com, 1204009095, RESELLER, 98c21ef9a666c68b #diDNA_STN
+yahoo.com, 57560, RESELLER, e1a5b5b6e3255540 #diDNA_STN
+google.com, pub-3689904677185774, RESELLER, f08c47fec0942fa0 #diDNA_STN
+aps.amazon.com, 3719, RESELLER #diDNA_STN
+districtm.io, 100127, RESELLER #diDNA_STN
+indexexchange.com, 184315, RESELLER, 50b1c356f2c5c8fc #diDNA_STN
+indexexchange.com, 184601, RESELLER, 50b1c356f2c5c8fc #diDNA_STN
+openx.com, 540302365, RESELLER, 6a698e2ec38604c6 #diDNA_STN
+openx.com, 539708628, RESELLER, 6a698e2ec38604c6 #diDNA_STN
+openx.com, 539462051, RESELLER, 6a698e2ec38604c6 #diDNA_STN
+telaria.com, tkz15-14wqj, RESELLER, 1a4e959a1b50034a #diDNA_STN
+appnexus.com, 1321, RESELLER, f5ab79cb980f11d1 #diDNA_STN
+nextmillennium.io, 14904, RESELLER, 65bd090fa4a1e3d6 #diDNA_STN
+hcodemedia.com, 74, RESELLER, 4ad830b803b0c6b2 #diDNA_STN
 
 #contact diDNA
 contact=ops@diDNA.io
