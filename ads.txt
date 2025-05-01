@@ -75,7 +75,7 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 4/10/25
+#diDNA ads dot txt 5/1/25
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -349,9 +349,9 @@ pubmatic.com, 156538, RESELLER, 5d62403b186f2ace #diDNA_richaudience
 rubiconproject.com, 13510, DIRECT, 0bfd66d529a55807 #diDNA_richaudience
 contextweb.com, 563371, RESELLER, 89ff185a4c4e857c #diDNA_richaudience
 adform.com, 1942, RESELLER #diDNA_richaudience
-lijit.com, 249425, RESELLER #diDNA_richaudience
+lijit.com, 249425, RESELLER, fafdf38b16bf6b2b #diDNA_richaudience
 smartadserver.com, 2640, RESELLER #diDNA_richaudience
-adyoulike.com, f1dfbb7f133fbdb25c96e7d85a5e628b, RESELLER #diDNA_richaudience
+adyoulike.com, f1dfbb7f133fbdb25c96e7d85a5e628b, RESELLER, 4ad745ead2958bf7 #diDNA_richaudience
 onetag.com, 8d4b087143c49f0, RESELLER #diDNA_richaudience
 amxrtb.com, 105199794, RESELLER #diDNA_richaudience
 smartadserver.com, 1999, RESELLER, 060d053dcf45cbf3 #diDNA_richaudience
@@ -668,25 +668,39 @@ yahoo.com, 57289, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 
 #diDNA Adipolo
-adipolo.com, 22611285429, RESELLER #diDNA_adipolo
-adipolosolutions.com, 22611285429, RESELLER #diDNA_adipolo
-pmbmonetize.com, 22611285429, RESELLER #diDNA_adipolo
-smartadline.com, 22934895009, DIRECT #diDNA_adipolo
-opamarketplace.com, 22934895009, DIRECT #diDNA_adipolo
+adipolo.com, 22703897216, RESELLER #diDNA_adipolo
+adipolosolutions.com, 22652786701, RESELLER #diDNA_adipolo
+pmbmonetize.com, 22703897216, RESELLER #diDNA_adipolo
+opamarketplace.com, 22703897216, RESELLER #diDNA_adipolo
+smartadline.com, 22703897216, RESELLER #diDNA_adipolo
 google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0 #diDNA_adipolo-Opa
 google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0 #diDNA_adipolo-GreeterAPL
 google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0 #diDNA_adipolo-APL
 google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0 #diDNA_adipolo-Positive
 google.com, pub-5862389829718358, RESELLER, f08c47fec0942fa0 #diDNA_adipolo
 google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0 #diDNA_adipolo
-adipolo.com, 22934895009, DIRECT #diDNA_adipolo
-adipolosolutions.com, 22934895009, DIRECT #diDNA_adipolo
-pmbmonetize.com, 22934895009, DIRECT #diDNA_adipolo
-selectmedia.asia, 22703897216, RESELLER #diDNA_adipolo
-onetag.com, 61d88450bdb25bc-OB, DIRECT #diDNA_adipolo
-
-
-
+adagio.io, 1224, RESELLER #diDNA_adipolo
+themediagrid.com, DJQVCM, DIRECT, 35d5010d7789b49d #diDNA_adipolo
+appnexus.com,16912,DIRECT, f5ab79cb980f11d1 #diDNA_adipolo
+appnexus.com,16912,RESELLER, f5ab79cb980f11d1 #diDNA_adipolo
+video.unrulymedia.com, 270404831, RESELLER #diDNA_adipolo
+aps.amazon.com, d4004b5f-4fb6-4be2-82ae-0e36b8f52c12, DIRECT #diDNA_adipolo
+aps.amazon.com, ec4e8edf-c46b-44a1-bcab-17b3a4420b9a, RESELLER #diDNA_adipolo
+inmobi.com, 8553511ff9e24ce2b1f5d98addcc3340, DIRECT, 83e75a7ae333ca9d #diDNA_adipolo
+inmobi.com, dfe9a1f0c51b4d46a61d676e9f3a9d69, RESELLER, 83e75a7ae333ca9d #diDNA_adipolo
+video.unrulymedia.com, 449519254, RESELLER #diDNA_adipolo
+adyoulike.com, a40a86ea548b729fc92e98b618536ba1, RESELLER, 4ad745ead2958bf7 #diDNA_adipolo
+amxrtb.com, 105199423, DIRECT #diDNA_adipolo
+nobid.io, 22853635813, DIRECT #diDNA_adipolo
+rubiconproject.com, 27318, RESELLER, 0bfd66d529a55807 #diDNA_adipolo
+rubiconproject.com, 25512, RESELLER, 0bfd66d529a55807 #diDNA_adipolo
+appnexus.com,15686,RESELLER, f5ab79cb980f11d1 #diDNA_adipolo
+amxrtb.com, 105199329, RESELLER  #diDNA_adipolo
+onetag.com, 8bd233947b607f0, RESELLER #diDNA_adipolo
+richaudience.com, 3b6nSszVxj, DIRECT #diDNA_adipolo
+onetag.com, 61d88450bdb25bc, DIRECT #diDNA_adipolo
+pubmatic.com, 164798, RESELLER, 5d62403b186f2ace #diDNA_adipolo
+amxrtb.com, 105199874, DIRECT #diDNA_adipolo
 
 #diDNA Optima
 optimanetwork.com, 10382, DIRECT #diDNA_optima
@@ -803,7 +817,7 @@ smaato.com, 1100047713, RESELLER, 07bcf65f187117b4 #diDNA_seedtag
 smilewanted.com, 4246, RESELLER #diDNA_smilewanted
 pubmatic.com, 158810, RESELLER, 5d62403b186f2ace #diDNA_smilewanted
 rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807 #diDNA_smilewanted
-appnexus.com, 10040, RESELLER #diDNA_smilewanted
+appnexus.com, 10040, RESELLER, f5ab79cb980f11d1 #diDNA_smilewanted
 smartadserver.com, 2491, RESELLER #diDNA_smilewanted
 amxrtb.com, 105199841, RESELLER #diDNA_smilewanted
 themediagrid.com, ZG1DBN, RESELLER, 35d5010d7789b49d #diDNA_smilewanted
