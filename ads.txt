@@ -75,7 +75,7 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 5/1/25
+#diDNA ads dot txt 5/9/25
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -449,6 +449,7 @@ pubmatic.com, 161593, RESELLER, 5d62403b186f2ace #diDNA_OneTag
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807 #diDNA_OneTag
 freewheel.tv, 20393, RESELLER #diDNA_OneTag
 freewheel.tv, 24377, RESELLER #diDNA_OneTag
+video.unrulymedia.com, 586616193, RESELLER #diDNA_OneTag
 
 #diDNA Colossus SSP
 supply.colossusssp.com, 563, DIRECT, 6c5b49d96ec1b458 #diDNA_colossus
