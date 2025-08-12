@@ -1,6 +1,6 @@
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 7/18/25
+#diDNA ads dot txt 8/7/25
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -868,6 +868,23 @@ adomega.in, 2115, RESELLER #diDNA_Saambaa
 jfacassoc.com, 1622, RESELLER #diDNA_Saambaa
 xandr.com, 14674, RESELLER #diDNA_Saambaa
 yieldmo.com, 2898690995346416534, RESELLER #diDNA_Saambaa
+
+#diDNA mobilefuse
+mobilefuse.com, 4624, DIRECT, 71e88b065d69c021 #diDNA_mobilefuse
+appnexus.com, 2764, RESELLER, f5ab79cb980f11d1 #diDNA_mobilefuse
+contextweb.com, 562858, RESELLER, 89ff185a4c4e857c #diDNA_mobilefuse
+conversantmedia.com, 100224, RESELLER, 03113cd04947736d #diDNA_mobilefuse
+lijit.com, 452742, RESELLER, fafdf38b16bf6b2b #diDNA_mobilefuse
+openx.com, 541056459, RESELLER, 6a698e2ec38604c6 #diDNA_mobilefuse
+pubmatic.com, 158772, RESELLER, 5d62403b186f2ace #diDNA_mobilefuse
+rubiconproject.com, 19744, RESELLER, 0bfd66d529a55807 #diDNA_mobilefuse
+smaato.com, 1100059110, RESELLER, 07bcf65f187117b4 #diDNA_mobilefuse
+smartadserver.com, 4238, RESELLER #diDNA_mobilefuse
+smartadserver.com, 4071, RESELLER #diDNA_mobilefuse
+sharethrough.com, BrrIll1d, RESELLER, d53b998a7bd4ecd2 #diDNA_mobilefuse
+thebrave.io, 1234587, RESELLER, c25b2154543746ac #diDNA_mobilefuse
+themediagrid.com, IGQAOK, RESELLER, 35d5010d7789b49d #diDNA_mobilefuse
+video.unrulymedia.com, 3704396951, RESELLER #diDNA_mobilefuse
 
 #contact diDNA
 contact=ops@diDNA.io
