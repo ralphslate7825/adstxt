@@ -1,6 +1,6 @@
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 8/26/25
+#diDNA ads dot txt 9/15/25
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -432,6 +432,7 @@ freewheel.tv, 625393, RESELLER #diDNA_vidazoo
 adform.com, 2643, RESELLER, 9f5210a2f0999e32 #diDNA_vidazoo
 sharethrough.com, S2rESyUH, RESELLER, d53b998a7bd4ecd2 #diDNA_vidazoo
 appnexus.com, 2794, RESELLER, f5ab79cb980f11d1 #diDNA_vidazoo
+pubmatic.com, 159988, RESELLER, 5d62403b186f2ace #diDNA_vidazoo
 
 #diDNA Epsilon
 conversantmedia.com, 40461, DIRECT, 03113cd04947736d #diDNA_epsilon
