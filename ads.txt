@@ -75,7 +75,7 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 10/15/25
+#diDNA ads dot txt 10/21/25
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -84,10 +84,10 @@ google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
 google.com, pub-2829411399762487, RESELLER, f08c47fec0942fa0 #diDNA_google_adsense
 
 #diDNA Pubmatic
-pubmatic.com, 159744, DIRECT, 5d62403b186f2ace #diDNA_pubmatic_ob
-pubmatic.com, 159745, DIRECT, 5d62403b186f2ace #diDNA_pubmatic_hb_display
-pubmatic.com, 161258, DIRECT, 5d62403b186f2ace #diDNA_pubmatic_hb_video
-pubmatic.com, 163800, DIRECT, 5d62403b186f2ace #diDNA_pubmatic_ortb
+pubmatic.com, 159744, RESELLER, 5d62403b186f2ace #diDNA_pubmatic_ob
+pubmatic.com, 159745, RESELLER, 5d62403b186f2ace #diDNA_pubmatic_hb_display
+pubmatic.com, 161258, RESELLER, 5d62403b186f2ace #diDNA_pubmatic_hb_video
+pubmatic.com, 163800, RESELLER, 5d62403b186f2ace #diDNA_pubmatic_ortb
 
 #diDNA Appnexus
 appnexus.com, 8219, DIRECT, f5ab79cb980f11d1 #diDNA_appnexus
