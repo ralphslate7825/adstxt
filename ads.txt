@@ -75,7 +75,7 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 10/22/25
+#diDNA ads dot txt 10/23/25
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
@@ -530,6 +530,7 @@ yahoo.com, 55771, RESELLER, e1a5b5b6e3255540 #diDNA_epsilon
 
 #diDNA RiseCodes
 risecodes.com, 5e5bd88e0005a80001867579, DIRECT #diDNA_rise
+triplelift.com, 12465, RESELLER, 6c33edb13117fd86 #diDNA_rise
 pubmatic.com, 160295, RESELLER, 5d62403b186f2ace #diDNA_rise
 xandr.com, 14082, RESELLER #diDNA_rise
 rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807 #diDNA_rise
@@ -968,10 +969,10 @@ themediagrid.com, IGQAOK, RESELLER, 35d5010d7789b49d #diDNA_mobilefuse
 video.unrulymedia.com, 3704396951, RESELLER #diDNA_mobilefuse
 
 #diDNA wunderkind
-wunderkind.co, 8494, DIRECT
-indexexchange.com,183753, RESELLER
-pubmatic.com,156512, RESELLER
-rubiconproject.com, 20986, RESELLER, 0bfd66d529a55807
+wunderkind.co, 8494, DIRECT #didna_wunderkind
+indexexchange.com,183753, RESELLER, 50b1c356f2c5c8fc #didna_wunderkind
+pubmatic.com,156512, RESELLER, 5d62403b186f2ace #didna_wunderkind
+rubiconproject.com, 20986, RESELLER, 0bfd66d529a55807 #didna_wunderkind
 
 #contact diDNA
 contact=ops@diDNA.io
