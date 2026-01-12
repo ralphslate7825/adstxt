@@ -1,9 +1,8 @@
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 10/29/25
+#diDNA ads dot txt 1/12/26
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
-google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0 #diDNA_google_s2s
 
 #diDNA Adsense
 google.com, pub-2829411399762487, RESELLER, f08c47fec0942fa0 #diDNA_google_adsense
@@ -13,18 +12,6 @@ pubmatic.com, 159744, RESELLER, 5d62403b186f2ace #diDNA_pubmatic_ob
 pubmatic.com, 159745, RESELLER, 5d62403b186f2ace #diDNA_pubmatic_hb_display
 pubmatic.com, 161258, RESELLER, 5d62403b186f2ace #diDNA_pubmatic_hb_video
 pubmatic.com, 163800, RESELLER, 5d62403b186f2ace #diDNA_pubmatic_ortb
-
-#diDNA Appnexus
-appnexus.com, 8219, DIRECT, f5ab79cb980f11d1 #diDNA_appnexus
-
-#diDNA IndexExchange
-indexexchange.com, 186905, RESELLER, 50b1c356f2c5c8fc #diDNA_ix_ob
-indexexchange.com, 189707, RESELLER, 50b1c356f2c5c8fc #diDNA_ix_hb
-indexexchange.com, 199987, RESELLER, 50b1c356f2c5c8fc #diDNA_ix_tam
-
-#diDNA Rubicon
-rubiconproject.com, 20100, RESELLER, 0bfd66d529a55807 #diDNA_rubicon_hb
-rubiconproject.com, 20102, RESELLER, 0bfd66d529a55807 #diDNA_rubicon_ob
 
 #diDNA Sovrn
 sovrn.com, 236010, RESELLER, fafdf38b16bf6b2b #diDNA_sovrn_hb
@@ -72,7 +59,7 @@ appnexus.com, 12290, RESELLER, f5ab79cb980f11d1 #diDNA_amx
 appnexus.com, 9393, RESELLER, f5ab79cb980f11d1 #diDNA_amx
 appnexus.com, 3153, RESELLER, f5ab79cb980f11d1 #diDNA_amx
 appnexus.com, 11924, RESELLER, f5ab79cb980f11d1 #diDNA_amx
-##appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #diDNA_amx
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1 #diDNA_amx
 lijit.com, 260380, RESELLER, fafdf38b16bf6b2b #diDNA_amx
 sovrn.com, 260380, RESELLER, fafdf38b16bf6b2b #diDNA_amx
 rubiconproject.com, 23844, RESELLER, 0bfd66d529a55807 #diDNA_amx
