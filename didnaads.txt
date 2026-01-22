@@ -1,6 +1,6 @@
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 1/12/26
+#diDNA ads dot txt 1/22/26
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 
@@ -258,6 +258,11 @@ zetaglobal.net,790,DIRECT #diDNA_nobid
 ssp.disqus.com,790,DIRECT #diDNA_nobid
 video.unrulymedia.com,946176315,RESELLER #diDNA_nobid
 dxkulture.com, 9533, DIRECT, 259726033fc4df0c #diDNA_nobid
+
+#diDNA Xander
+appnexus.com,16912,RESELLER, f5ab79cb980f11d1 #didna_xander
+appnexus.com, 8420, RESELLER, f5ab79cb980f11d1 #didna_xander
+appnexus.com,12637,RESELLER, f5ab79cb980f11d1 #didna_xander
 
 #diDNA RichAudience-Exte
 richaudience.com, 8ungxVGrTW, DIRECT #diDNA_richaudience
