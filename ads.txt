@@ -75,7 +75,7 @@ MANAGERDOMAIN=didna.io
 # End Hockeydb
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 2/24/26
+#diDNA ads dot txt 2/25/26
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 
@@ -984,6 +984,11 @@ appnexus.com, 3153, RESELLER, f5ab79cb980f11d1 #didna_sparteo
 appnexus.com, 11924, RESELLER, f5ab79cb980f11d1 #didna_sparteo
 media.net, 8CUJ8C82U, RESELLER #didna_sparteo
 lijit.com, 447882, RESELLER, fafdf38b16bf6b2b #didna_sparteo
+
+#diDNA Revealon 
+revealon.media, 18078, DIRECT #didna_revealon_ortb
+richaudience.com, hAnjUfiAAr, RESELLER #didna_revealon_ortb
+adyoulike.com, aa2f12db0f80727dc5f235993e269810, RESELLER #didna_revealon_ortb
 
 #contact diDNA
 contact=ops@diDNA.io
