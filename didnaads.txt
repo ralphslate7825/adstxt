@@ -1,6 +1,6 @@
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 2/25/26
+#diDNA ads dot txt 3/4/26
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 
@@ -265,9 +265,9 @@ appnexus.com, 8420, RESELLER, f5ab79cb980f11d1 #didna_xander
 appnexus.com,12637,RESELLER, f5ab79cb980f11d1 #didna_xander
 
 #diDNA RichAudience-Exte
-richaudience.com, 8ungxVGrTW, DIRECT #diDNA_richaudience
-richaudience.com, quxufDBTNs, DIRECT #diDNA_richaudience
-richaudience.com, 06EhCbcfZK, DIRECT #diDNA_richaudience
+richaudience.com, 8ungxVGrTW, RESELLER #diDNA_richaudience
+richaudience.com, quxufDBTNs, RESELLER #diDNA_richaudience
+richaudience.com, 06EhCbcfZK, RESELLER #diDNA_richaudience
 appnexus.com, 8233, RESELLER, f5ab79cb980f11d1 #diDNA_richaudience
 pubmatic.com, 81564, RESELLER, 5d62403b186f2ace #diDNA_richaudience
 pubmatic.com, 156538, RESELLER, 5d62403b186f2ace #diDNA_richaudience
