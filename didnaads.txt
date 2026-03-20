@@ -1,6 +1,6 @@
 MANAGERDOMAIN=didna.io
 
-#diDNA ads dot txt 3/12/26
+#diDNA ads dot txt 3/20/26
 #diDNA AdX
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 
@@ -97,7 +97,7 @@ emxdgt.com,2009,RESELLER,1e1d41537f7cad7f #diDNA_amazon
 appnexus.com,1356,RESELLER,f5ab79cb980f11d1 #diDNA_amazon
 contextweb.com,562541,RESELLER,89ff185a4c4e857c #diDNA_amazon
 smartadserver.com,4125,RESELLER,060d053dcf45cbf3 #diDNA_amazon
-themediagrid.com,JTQKMP,RESELLER,35d5010d7789b49d #diDNA_amazon
+themediagrid.com,JTQKMP,RESELLER,9fac4a4a87c2a44f #diDNA_amazon
 beachfront.com,14804,RESELLER,e2541279e8e2ca4d #diDNA_amazon
 appnexus.com,8219,DIRECT,f5ab79cb980f11d1 #diDNA_amazon
 sovrn.com,236010,DIRECT,fafdf38b16bf6b2b #diDNA_amazon
@@ -152,7 +152,7 @@ openx.com, 537120563, RESELLER, 6a698e2ec38604c6 #diDNA_infolinks
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807 #diDNA_infolinks
 onetag.com, 598ce3ddaee8c90, RESELLER #diDNA_infolinks
 improvedigital.com, 2016, RESELLER #diDNA_infolinks
-themediagrid.com, V19ZSB, RESELLER, 35d5010d7789b49d #diDNA_infolinks
+themediagrid.com, V19ZSB, RESELLER, 9fac4a4a87c2a44f #diDNA_infolinks
 zetaglobal.net, 533, RESELLER #diDNA_infolinks
 disqus.com, 533, RESELLER #diDNA_infolinks
 sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2 #diDNA_infolinks
@@ -431,7 +431,7 @@ improvedigital.com, 1699, RESELLER #diDNA_mediafuse
 
 #diDNA Criteo
 criteo.com, B-071800, DIRECT, 9fac4a4a87c2a44f #diDNA_criteo
-themediagrid.com, MP146W, DIRECT, 35d5010d7789b49d #diDNA_criteo
+themediagrid.com, MP146W, DIRECT, 9fac4a4a87c2a44f #diDNA_criteo
 
 #diDNA AdYouLike
 adyoulike.com, f1e9cd7b291282fcad240a455fd65c12, DIRECT, 4ad745ead2958bf7 #diDNA_adyoulike
@@ -459,7 +459,7 @@ rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 #diDNA_vidazoo
 supply.colossusssp.com, 181, RESELLER, 6c5b49d96ec1b458 #diDNA_vidazoo
 undertone.com, 4151, RESELLER #diDNA_vidazoo
 undertone.com, 3934, RESELLER #diDNA_vidazoo
-themediagrid.com, 3AW9JB, RESELLER, 35d5010d7789b49d #diDNA_vidazoo
+themediagrid.com, 3AW9JB, RESELLER, 9fac4a4a87c2a44f #diDNA_vidazoo
 lijit.com, 222372, RESELLER, fafdf38b16bf6b2b #diDNA_vidazoo
 openx.com, 541017750, RESELLER, 6a698e2ec38604c6 #diDNA_vidazoo
 video.unrulymedia.com, 2743945877, RESELLER #diDNA_vidazoo
@@ -503,7 +503,7 @@ onetag.com, 69f48c2160c8113, RESELLER #diDNA_rise
 smartadserver.com, 4284, RESELLER #diDNA_rise
 freewheel.tv, 1590601, RESELLER #diDNA_rise
 freewheel.tv, 1590606, RESELLER #diDNA_rise
-themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d #diDNA_rise
+themediagrid.com, 4DQHAP, RESELLER, 9fac4a4a87c2a44f #diDNA_rise
 lijit.com, 405318, RESELLER, fafdf38b16bf6b2b #diDNA_rise
 smaato.com, 1100057444, RESELLER, 07bcf65f187117b4 #diDNA_rise
 smaato.com, 1100004890, RESELLER, 07bcf65f187117b4 #diDNA_rise
@@ -521,7 +521,7 @@ lijit.com, 374814, RESELLER, fafdf38b16bf6b2b #diDNA_OMS
 pubmatic.com, 161332, RESELLER, 5d62403b186f2ace #diDNA_OMS
 openx.com, 537153209, RESELLER, 6a698e2ec38604c6 #diDNA_OMS
 video.unrulymedia.com, 6694405583287859332, RESELLER #diDNA_OMS
-themediagrid.com, IRK975, RESELLER, 35d5010d7789b49d #diDNA_OMS
+themediagrid.com, IRK975, RESELLER, 9fac4a4a87c2a44f #diDNA_OMS
 appnexus.com, 11801, RESELLER, f5ab79cb980f11d1 #diDNA_OMS
 appnexus.com, 15629, RESELLER, f5ab79cb980f11d1 #diDNA_OMS
 appnexus.com, 15127, RESELLER, f5ab79cb980f11d1 #diDNA_OMS
@@ -612,7 +612,7 @@ sharethrough.com, gaUCB2YI, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 3056, RESELLER
 sonobi.com, 5fa6044d8d, RESELLER, d1a215d9eb5aee9e
 sonobi.com, f9d43d3da6, RESELLER, d1a215d9eb5aee9e
-themediagrid.com, CIQERY, RESELLER, 35d5010d7789b49d
+themediagrid.com, CIQERY, RESELLER, 9fac4a4a87c2a44f
 triplelift.com, 12503, RESELLER, 6c33edb13117fd86
 ucfunnel.com, par-488A3E6BD8D997D0ED8B3BD34D8BA4B, RESELLER
 video.unrulymedia.com, 905992537, RESELLER, a670c89d4a324e47
@@ -635,7 +635,7 @@ google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0 #diDNA_adipolo-Posi
 google.com, pub-5862389829718358, RESELLER, f08c47fec0942fa0 #diDNA_adipolo
 google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0 #diDNA_adipolo
 adagio.io, 1224, RESELLER #diDNA_adipolo
-themediagrid.com, DJQVCM, DIRECT, 35d5010d7789b49d #diDNA_adipolo
+themediagrid.com, DJQVCM, DIRECT, 9fac4a4a87c2a44f #diDNA_adipolo
 appnexus.com,16912,DIRECT, f5ab79cb980f11d1 #diDNA_adipolo
 appnexus.com,16912,RESELLER, f5ab79cb980f11d1 #diDNA_adipolo
 video.unrulymedia.com, 270404831, RESELLER #diDNA_adipolo
@@ -664,7 +664,7 @@ google.com, pub-4586415728471297, DIRECT, f08c47fec0942fa0 #diDNA_optima
 google.com, pub-8863191426564274, RESELLER, f08c47fec0942fa0 #diDNA_optima
 openx.com, 557904194, RESELLER, 6a698e2ec38604c6 #diDNA_optima
 criteo.com, B-068838, DIRECT, 9fac4a4a87c2a44f #diDNA_optima
-themediagrid.com, Q6VXLE, DIRECT, 35d5010d7789b49d #diDNA_optima
+themediagrid.com, Q6VXLE, DIRECT, 9fac4a4a87c2a44f #diDNA_optima
 readwhere.digital, rd891fiofzktecyodvubtsyqhutsincexqe63e23569bf264, DIRECT #diDNA_optima
 rwadx.com, rw977gpobmmvyzkafzpcmlnltnlnloklkxu63e22fbe6eb32, DIRECT #diDNA_optima
 aps.amazon.com, 5d8ed25e-57cc-441a-b62a-127b34faae4e, DIRECT #diDNA_optima
@@ -672,7 +672,7 @@ rubiconproject.com, 24872, DIRECT, 0bfd66d529a55807 #diDNA_optima
 rubiconproject.com, 24874, DIRECT, 0bfd66d529a55807 #diDNA_optima
 pubmatic.com, 159727, RESELLER, 5d62403b186f2ace #diDNA_optima
 criteo.com, B-060927, DIRECT, 9fac4a4a87c2a44f #diDNA_optima
-themediagrid.com, TR634Q, DIRECT, 35d5010d7789b49d #diDNA_optima
+themediagrid.com, TR634Q, DIRECT, 9fac4a4a87c2a44f #diDNA_optima
 e-planning.net,2dc7f47b1dc81e28,DIRECT,c1ba615865ed87b2 #diDNA_optima
 appnexus.com, 15941, RESELLER, f5ab79cb980f11d1 #diDNA_optima
 onetag.com, 5927d926323dc2c, RESELLER #diDNA_optima
@@ -777,7 +777,7 @@ rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807 #diDNA_smilewanted
 appnexus.com, 10040, RESELLER, f5ab79cb980f11d1 #diDNA_smilewanted
 smartadserver.com, 2491, RESELLER #diDNA_smilewanted
 amxrtb.com, 105199841, RESELLER #diDNA_smilewanted
-themediagrid.com, ZG1DBN, RESELLER, 35d5010d7789b49d #diDNA_smilewanted
+themediagrid.com, ZG1DBN, RESELLER, 9fac4a4a87c2a44f #diDNA_smilewanted
 eskimi.com, 2020000768, RESELLER #diDNA_smilewanted
 33across.com, 001Pg000009Gtq2IAC, DIRECT, bbea06d9c4d2853c #diDNA_smilewanted
 152media.info, 152M728, RESELLER #diDNA_smilewanted
@@ -814,7 +814,7 @@ durationmedia.net, 23282223912, DIRECT #diDNA_durationmedia
 #diDNA Opera
 sabio.us,100092, DIRECT, 96ed93aaa9795702 #diDNA_opera_OB
 rubiconproject.com,17608,RESELLER,0bfd66d529a55807 #diDNA_opera_OB
-themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d #diDNA_opera_OB
+themediagrid.com, A6CWLO, RESELLER, 9fac4a4a87c2a44f #diDNA_opera_OB
 pubmatic.com,165340,RESELLER,5d62403b186f2ace #diDNA_opera_OB
 lijit.com,465542,RESELLER,fafdf38b16bf6b2b #diDNA_opera_OB
 
@@ -831,7 +831,7 @@ triplelift.com, 11014, RESELLER, 6c33edb13117fd86 #diDNA_STN
 video.unrulymedia.com, 3728224204249146186, RESELLER #diDNA_STN
 appnexus.com, 8354, RESELLER, f5ab79cb980f11d1 #diDNA_STN
 emxdgt.com, 1369, RESELLER, 1e1d41537f7cad7f #diDNA_STN
-themediagrid.com, UT7ASD, RESELLER, 35d5010d7789b49d #diDNA_STN
+themediagrid.com, UT7ASD, RESELLER, 9fac4a4a87c2a44f #diDNA_STN
 smartadserver.com, 4949, RESELLER, 060d053dcf45cbf3 #diDNA_STN
 openx.com, 539363661, RESELLER, 6a698e2ec38604c6 #diDNA_STN
 undertone.com, 3590, RESELLER, d954590d0cb265b9 #diDNA_STN
@@ -908,7 +908,7 @@ smartadserver.com, 4238, RESELLER #diDNA_mobilefuse
 smartadserver.com, 4071, RESELLER #diDNA_mobilefuse
 sharethrough.com, BrrIll1d, RESELLER, d53b998a7bd4ecd2 #diDNA_mobilefuse
 thebrave.io, 1234587, RESELLER, c25b2154543746ac #diDNA_mobilefuse
-themediagrid.com, IGQAOK, RESELLER, 35d5010d7789b49d #diDNA_mobilefuse
+themediagrid.com, IGQAOK, RESELLER, 9fac4a4a87c2a44f #diDNA_mobilefuse
 video.unrulymedia.com, 3704396951, RESELLER #diDNA_mobilefuse
 
 #diDNA wunderkind
