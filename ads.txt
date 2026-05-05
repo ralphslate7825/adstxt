@@ -1038,6 +1038,28 @@ flashb.id, f1d83adc-c854-552c-8b2f-1f27fc1d65fa, RESELLER #didna_oveeo_ortb
 lijit.com, 547982, RESELLER, fafdf38b16bf6b2b #didna_oveeo_ortb
 video.unrulymedia.com, 112454683, RESELLER #didna_oveeo_ortb
 
+#Omnidex
+omni-dex.io, 100050, DIRECT
+rubiconproject.com, 21274, DIRECT, 0bfd66d529a55807
+pubmatic.com, 165321, DIRECT, 5d62403b186f2ace
+onlinemediasolutions.com, 21159, DIRECT, b3868b187e4b6402
+onomagic.com, 211591, DIRECT
+getmediamx.com, 1221159, DIRECT
+inmobi.com, 0a9d875916034437b220eba9df2adfa3, RESELLER, 83e75a7ae333ca9d
+audienciad.com, 211592, DIRECT
+XANDR.COM, 11201, DIRECT
+risecodes.com, 636cc1381c35e10001b200c7, DIRECT
+kueez.com, d8e29c8b0e85683f6d50ecbf6f030b25, RESELLER
+smaato.com, 1100059219, RESELLER, 07bcf65f187117b4
+33across.com, 001Pg000002MH4HIAW, RESELLER, bbea06d9c4d2853c
+aceex.io, 898, RESELLER, b1cf3c874d5c6682
+adipolo.com, 102032, RESELLER
+video.unrulymedia.com, 468729161, RESELLER
+pgamssp.com, 65c4dab8199399cda607f238, DIRECT
+rubiconproject.com, 24852, RESELLER, 0bfd66d529a55807
+pubmatic.com, 165708, RESELLER, 5d62403b186f2ace
+richaudience.com, vVZVBBrq58, DIRECT
+
 #contact diDNA
 contact=ops@diDNA.io
 contact=http://diDNA.io/contact/
