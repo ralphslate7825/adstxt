@@ -1012,8 +1012,8 @@ zetaglobal.net, 987, RESELLER
 lijit.com, 554656, RESELLER
 sonobi.com, 0f8997d5a7, RESELLER, d1a215d9eb5aee9e
 trustedstack.com, TSLAU41Q2, RESELLER
-"pmc.com, 1243696, RESELLER, 8dd52f825890bb44
-rubiconproject.com, 10278, RESELLER, 0bfd66d529a55807"
+pmc.com, 1243696, RESELLER, 8dd52f825890bb44
+rubiconproject.com, 10278, RESELLER, 0bfd66d529a55807
 
 #contact diDNA
 contact=ops@diDNA.io
