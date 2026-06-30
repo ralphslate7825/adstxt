@@ -671,7 +671,7 @@ triplelift.com, 11883, RESELLER, 6c33edb13117fd86
 pubmatic.com, 159988, RESELLER, 5d62403b186f2ace
 media.net, 8CUN4Y5Y3, RESELLER
 yieldmo.com, 3624960084913628105, RESELLER
-conversantmedia.com, 101221 , DIRECT/RESELLER , 03113cd04947736d
+conversantmedia.com, 101221, DIRECT, 03113cd04947736d
 richaudience.com, 8twCOpe36U, RESELLER
 spotim.market, fd79e458b530aabcd3e31c0586e58577, RESELLER, 077e5f709d15bdbb
 flashb.id, 8a54c501-125e-5c96-9884-e63904a9b974, DIRECT
@@ -679,6 +679,8 @@ trustedstack.com, TS4IPKUT2, DIRECT
 onetag.com, 848879e82ca5940, RESELLER
 adyoulike.com, dfbdaf0d0a1ae6e3597874849690b9be, DIRECT
 media.net, 8CUT87EOU, RESELLER
+toponad.com, 16a3a5c0575e41, RESELLER, 1d49fe424a1a456d
+toponad.com, 16a229f2528e69, RESELLER, 1d49fe424a1a456d
 
 #diDNA Fluct
 adingo.jp, 31129, RESELLER #diDNA_fluct_OB
