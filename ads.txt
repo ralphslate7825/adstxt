@@ -192,7 +192,11 @@ adyoulike.com, 1f301d3bcd723f5c372070bdfd142940, RESELLER, 4ad745ead2958bf7
 
 #diDNA Media.net
 media.net, 8CU1MXMOP, DIRECT #open-bidding
-media.net, 8CUJY6S41, RESELLER #hb-display
+media.net, 8CU737671, DIRECT #hb-display
+google.com, pub-7439041255533808, RESELLER, f08c47fec0942fa0
+districtm.io, 100600, DIRECT
+spotxchange.com, 211156, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211156, RESELLER, 7842df1d2fe2db34
 
 #Next Millennium Media
 nextmillennium.io, 15318, DIRECT, 65bd090fa4a1e3d6 #hb-display
