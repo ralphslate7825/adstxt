@@ -11,9 +11,6 @@ google.com, pub-2829411399762487, RESELLER, f08c47fec0942fa0
 aps.amazon.com,64abda41-57ff-4c58-84f8-8c2c7ab4be23,DIRECT
 bidline.net,550e8400,RESELLER
 
-#diDNA Microsoft
-appnexus.com, 8219, RESELLER
-
 #diDNA Pubmatic
 pubmatic.com, 159744, RESELLER, 5d62403b186f2ace #open-bidding
 pubmatic.com, 159745, RESELLER, 5d62403b186f2ace #hb-display
